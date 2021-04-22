@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+// Colors
+$accent-color: #f9042e;
+$accent-color-lighter: lighten(saturate(#f9042e, 10%), 3%);
+
+$background: #0f0f0f;
+$foreground: #aaa;
+
+// Grays
+$darkGray: #555;
+$gray: #777;
+$lightGray: #aaa;
+
+
+// Fonts
+$sansSerif: 'IBM Plex Sans', sans-serif;
+$headerFont: $sansSerif;
+$serif: Georgia, 'Times New Roman', Times, serif;
+$monospace: monospace;
+
+:root {
+    --sansSerif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --serif: Georgia, 'Times New Roman', Times, serif;
+    --monospace: monospace;
+}

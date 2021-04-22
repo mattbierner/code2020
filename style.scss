@@ -1,0 +1,182 @@
+---
+---
+
+@import "reset";
+@import "variables";
+
+@import "main";
+@import "postList";
+@import "footer";
+@import "highlights";
+
+@import "post";
+@import "index";
+@import "about";
+
+@font-face {
+    font-family: "Seven Segment";
+    src: url("/images/Seven Segment.ttf") format("ttf");
+}
+
+html {
+    font-size: 100%;
+    height: 100%;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    font-variant-ligatures: common-ligatures;
+    background: $background;
+    font-family: $sansSerif;
+    font-size: 18px;
+    line-height: 1.34;
+    color: $foreground;
+    min-height: 100%;
+    height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 740px;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $headerFont;
+    color: $foreground;
+    font-weight: 300;
+    line-height: 1.15;
+    padding: 0;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 1;
+}
+
+h4 {
+    font-size: 18px;
+    color: $gray;
+}
+
+h1 a, h2 a, h3 a,
+h4 a, h5 a, h6 a {
+    color: inherit;
+}
+
+p, ul, ol, pre {
+    margin: 0.2em 0 1.2em 0;
+}
+
+ol ol, ul ul,
+ul ol, ol ul {
+    margin: 0.4em 0;
+}
+
+a {
+    color: $accent-color;
+    text-decoration: none;
+    cursor: pointer;
+
+    &:hover, &:active {
+        color: $accent-color;
+    }
+}
+
+ul, ol {
+    margin: 15px 0;
+    padding-left: 30px;
+    }
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ol ul, ul ol, ul ul, ol ol {
+    margin: 0;
+}
+
+ul ul, ol ul {
+    list-style-type: circle;
+}
+
+em, i {
+    font-style: italic;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+img, video {
+    max-width: 100%;
+}
+
+sup {
+    font-size: xx-small;
+    vertical-align: super;
+}
+
+// Fixes images in popup boxes from Google Translate
+.gmnoprint img {
+  max-width: none;
+}
+
+.date {
+  font-style: italic;
+  color: $gray;
+}
+
+code, pre {
+    color: rgba($foreground, $alpha: 0.75);
+    font-variant-ligatures: none;
+}
+
+kbd {
+    font-family: $monospace;
+    font-size: 0.9em;
+    padding: 0.1em 0.2em;
+    margin: 0 0.2em;
+    border: 1px solid $accent-color;
+    color: $accent-color;
+}
+
+.twitter {
+    -webkit-mask: url(/images/twitter.svg);
+    mask: url(/images/twitter.svg);
+}
+
+.youtube {
+    -webkit-mask: url(/images/youtube.svg);
+    mask: url(/images/youtube.svg);
+}
+
+.rss {
+    -webkit-mask: url(/images/rss.svg);
+    mask: url(/images/rss.svg);
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+

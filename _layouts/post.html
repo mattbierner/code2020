@@ -1,0 +1,71 @@
+---
+layout: default
+className: post-page
+---
+
+<div class="post-page">
+
+    <header class="site-header">
+        <a href="{{ site.baseurl }}/" class="site-logo">
+            <img src="/images/header-small.png" alt="Code 20/20" />
+        </a>
+
+        <nav class="site-links">
+            <a href="/about">About</a>
+            <a href="/#body">Latest Tips</a>
+            <a href="TODO">Code 0 to 20</a>
+        </nav>
+    </header>
+
+    <nav class="social-links">
+        <a class="youtube" href="https://youtube.com/c/code2020"></a>
+        <a class="twitter" href="https://twitter.com/mattbierner"></a>
+        <a class="rss" href="/feed.xml"></a>
+    </nav>
+
+    <article role="main" class="post">
+
+        <div class="videoWrapper">
+            <iframe width="560" height="349" src="https://www.youtube.com/embed/{{ page.youtube_video_id }}"
+                frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+        </div>
+
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+        </header>
+
+        {{ content }}
+
+        <footer class="post-footer">
+
+            {% if page.tags %}
+                <nav class="tags">
+                    {% for tag in page.tags %}
+                        <a class="tag" href="/tag/{{ tag | downcase }}">{{ tag }}</a>
+                    {% endfor %}
+                </nav>
+            {% endif %}
+
+            <nav class="post-nav">
+                <div class="next">
+                    {% if page.next.url %}
+                        <a href="{{page.next.url}}"><span class="label">Next Tip:</span><span class="title">{{page.next.title}}</span></a>
+                    {% endif %}
+                </div>
+                <div class="prev">
+                    {% if page.previous.url %}
+                        <a href="{{page.previous.url}}"><span class="label">Previous Tip:</span><span class="title">{{page.previous.title}}</a>
+                    {% endif %}
+                </div>
+            </nav>
+
+            <time class="published-at" datetime="{{ page.date | date_to_xmlschema}}">{{ page.date | date: "%B %e, %Y" }}</time>
+
+            <a class="edit-link" href="https://github.com/mattbierner/code2020/tree/gh-pages/{{page.path}}">View on GitHub</a>
+        </footer>
+    </article>
+
+    {% include site_footer.html %}
+    
+</div>

@@ -1,0 +1,30 @@
+.index-page {
+    .pagination {
+        display: grid;
+        justify-content: center;
+        text-align: center;
+
+        grid-template:
+            "pages pages"
+            "next previous";
+
+        .page-list {
+            grid-area: pages;
+            margin-bottom: 0.5rem;
+        }
+
+        .next, .prev {
+            font-size: 1.2rem;
+        }
+
+        .next {
+            grid-area: next;
+            text-align: left;
+        }
+
+        .prev {
+            grid-area: previous;
+            text-align: right;
+        }
+    }
+}

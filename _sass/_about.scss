@@ -1,0 +1,45 @@
+.about-page {
+    .main-body {
+        max-width: 700px;
+
+        grid-template:
+            "links"
+            "content";
+    }
+
+    .content {
+        margin-right: 0;
+        
+        h1 {
+            text-align: center;
+        }
+
+        section {
+            margin-bottom: 3rem;
+        }
+    }
+
+    .site-tags {
+        display: none;
+    }
+
+    .site-links {
+        font-size: 1.4em;
+        margin-bottom: 1em;
+
+        & > nav {
+            text-align: center;
+        }
+
+        & > nav > a {
+            display: inline-block;
+            margin-left: 1rem;
+            margin-right: 1rem;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+        }
+    }
+}

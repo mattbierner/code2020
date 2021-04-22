@@ -1,0 +1,12 @@
+{% capture image_src %}{% if include.file %}/content/{{ page.path | remove_first:'_posts/' | split:'.' | first }}/{{ include.file }}{% else %}{{ include.url }}{% endif %}{% endcapture %}
+
+{% capture image_href %}{% if include.href %}{{ include.href }}{% else %}{{ image_src }}{% endif %}{% endcapture %}
+
+<figure class="image">
+    <a href="{{ image_href }}">
+        <img src="{{ image_src }}" alt="{{ include.description }}" {% if include.style %}style="{{ include.style }}"{% endif %} />
+    </a>
+{% if include.description %}
+    <figcaption>{{ include.description | markdownify }}</figcaption>
+{% endif %}
+</figure>

@@ -1,0 +1,41 @@
+---
+layout: main
+className: index-page
+---
+
+<div id="body" role="main" class="post-list content">
+    <h1>{% if paginator.page == 1 %}Latest VS Code Tips and Tricks{% else %}Page {{ paginator.page}}{% endif %}</h1>
+
+    {% assign first_posts = site.posts | slice:0,5 %}
+    {% for post in paginator.posts %}
+        {% include post_index.html %}
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+        <nav class="pagination">
+            <div class="page-list">
+                {% for page in (1..paginator.total_pages) %}
+                    {% if page == paginator.page %}
+                        <em>{{ page }}</em>
+                    {% elsif page == 1 %}
+                        <a href="{{ site.baseurl }}/#body">{{ page }}</a>
+                    {% else %}
+                        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}#body">{{ page }}</a>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            <div class="next">
+                {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}#body">&laquo; Next Page</a>
+                {% endif %}
+            </div>
+
+            <div class="prev">
+                {% if paginator.next_page %}
+                    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}#body">Previous Page &raquo;</a>
+                {% endif %}
+            </div>
+        </nav>
+    {% endif %}
+</div>

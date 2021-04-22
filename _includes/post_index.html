@@ -1,0 +1,16 @@
+<a class="post-item" href="{{ site.baseurl }}{{ post.url }}">
+    <div class="post-title-image">
+        <img src="{{ post.thumbnails.maxres | default: post.thumbnails.high }}" alt="{{ post.title }}" />
+    </div>
+
+    <div class="post-info">
+        <h2 class="post-title">{{ post.title }}</h2>
+
+        <div class="post-title-meta">
+            <time datetime="{{post.date | date_to_xmlschema}}">{{ post.date | date: '%B %d, %Y' }}</time>
+            {% if site.data.series[post.series] %}
+            &mdash; <a class="channel-link" href="/series/{{ post.series }}">{{ site.data.series[post.series].name }}</a>
+            {% endif %}
+        </div>
+    </div>
+</a>

@@ -1,0 +1,294 @@
+.post-page {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+    margin-top: 1rem;
+
+    display: grid;
+    grid-template:
+        "content header"
+        "content social-links" 1fr
+        "content footer"
+        / 1fr 200px;
+
+    .site-header {
+        grid-area: header;
+        padding-bottom: 4px;
+        text-align: center;
+
+        .site-nav {
+            margin-bottom: 1em;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .site-logo {
+            img {
+                max-width: 400px;
+                width: 100%;
+                object-fit: contain;
+            }
+        }
+    }
+
+    .social-links {
+        grid-area: social-links;
+    }
+
+    .post-header {
+        text-align: center;
+        margin-bottom: 1em;
+
+        .post-title {
+            margin-top: 0;
+        }
+    }
+
+    .post-meta {
+        color: $lightGray;
+        font: $sansSerif;
+        font-size: 0.9rem;
+        padding-bottom: 0.4em;
+    }
+
+    .site-links {
+        display: flex;
+        flex-direction: column;
+        font-size: 1.4rem;
+
+        & > * {
+            display: block;
+            margin-bottom: 0.8em;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    .social-links {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: center;
+        gap: 0.8em;
+        
+        & > * {
+            display: block;
+            width: 2rem;
+            height: 2rem;
+            background-color: $accent-color;
+
+            &:hover {
+                opacity: 0.6;
+            }
+        }
+    }
+    .post {
+        overflow: hidden;
+        --post-content-padding: 40px;
+        grid-area: content;
+
+        & > * {
+            padding-left: var(--post-content-padding);
+            padding-right: var(--post-content-padding);
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .videoWrapper {
+            margin-left: var(--post-content-padding);
+            margin-right: var(--post-content-padding);
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 */
+            height: 0;
+            margin-bottom: 1em;
+            max-width: 100%;
+        }
+
+        .videoWrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    }
+
+    .site-footer {
+        grid-area: footer;
+        text-align: center;
+        font-size: 0.8em;
+
+        .social-links {
+            display: none;
+        }
+    }
+}
+
+
+// Post Content
+.post {
+    img, iframe, figure, div.highlighter-rouge, video {
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+// Post Footer
+.post-footer {
+    margin-top: 0.6em;
+
+    .published-at {
+        display: block;
+        margin-bottom: 0.8em;
+        font-size: 0.9rem;
+        text-align: center;
+
+        &::before {
+            content: "Published ";
+        }
+    }
+
+    .tags {
+        margin-bottom: 1em;
+        text-align: center;
+
+        .tag {
+            display: inline-block;
+            border: 2px solid $accent-color-lighter;
+            color: $accent-color-lighter;
+            font-weight: bold;
+            padding: 0.4em 1em;
+            font-size: 0.8rem;
+            margin: 0.2em;
+
+            &:hover {
+                opacity: 0.6;
+            }
+        }
+    }
+
+    .edit-link {
+        display: block;
+        width: 100%;
+        font-size: 0.9rem;
+        color: #aaa;
+        font-style: italic;
+        text-align: center;
+        
+        &:hover {
+            text-decoration: underline
+        }
+    }
+
+    .post-nav {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        gap: 1em;
+        margin-bottom: 1.6em;
+
+        .prev, .next {
+            a {
+                display: grid;
+                align-items: center;
+                font-size: 0.9rem;
+                font-style: italic;
+                color: $accent-color-lighter;
+            }
+
+            a:hover .label {
+                text-decoration: underline;
+            }
+            
+            .label {
+                grid-area: label;
+                font-style: normal;
+                font-size: 1.1rem;
+            }
+
+            .title {
+                grid-area: title;
+            }
+        }
+
+        .next a {
+            grid-template:
+                "nav-indicator label"
+                "nav-indicator title"
+                / auto 1fr;
+            text-align: left;
+
+            &::before {
+                grid-area: nav-indicator;
+                display: block;
+                content: "«"; 
+                padding-right: 0.4em;
+                font-size: 2em;
+            }
+        }
+
+        .prev a {
+            grid-template:
+                "label nav-indicator"
+                "title nav-indicator"
+                / 1fr auto;
+            text-align: right;
+
+            &::after {
+                grid-area: nav-indicator;
+                display: block;
+                content: "»";
+                padding-left: 0.4em;
+                font-size: 2em;
+            }
+        }
+    }
+
+}
+
+@media only screen and (max-width: 800px) {
+    .post-page {
+        margin-top: 0;
+        grid-template:
+            "header"
+            "content"
+            "social-links"
+            "footer";
+
+        .site-header {
+            margin-bottom: 0.6rem;
+
+            .site-logo img {
+                max-width: 300px;
+            }
+        }
+
+        .site-links {
+            display: block;
+
+            & > * {
+                display: inline-block;
+                margin-left: 1rem;
+                margin-right: 1rem;
+            }
+        }
+
+        .site-footer {
+            margin-top: 1em;
+        }
+
+        .post-footer {
+            margin-bottom: 1em;
+        }
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .post-page {
+        .post {
+            --post-content-padding: 20px;
+        }
+    }
+}
