@@ -11,6 +11,6 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/16mUmKZanrA/maxresdefault.jpg
 ---
 
-VS Code now automatically inserts @ returns when generating JSDoc comments. This works in both JavaScript and TypeScript files
+VS Code automatically inserts `@returns` when generating JSDoc comments. This works in both JavaScript and TypeScript files.
 
-@returns is only added if the function contains a return statement. You can easily disable it with the `typescript.suggest.jsdoc.generateReturns` and `javascript.suggest.jsdoc.generateReturns` settings.
+`@returns` is only added if the function contains a return statement. You can easily disable it with the `typescript.suggest.jsdoc.generateReturns` and `javascript.suggest.jsdoc.generateReturns` settings.
