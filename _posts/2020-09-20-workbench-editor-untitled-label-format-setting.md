@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The 'Workbench: Editor: Untitled: Label Format' setting"
+title: "Workbench › Editor › Untitled: Label Format"
 youtube_video_id: jKQDDLZxyIs
-tags:
+tags: setting
 thumbnails:
   default: https://i.ytimg.com/vi/jKQDDLZxyIs/default.jpg
   medium: https://i.ytimg.com/vi/jKQDDLZxyIs/mqdefault.jpg
@@ -12,4 +12,4 @@ thumbnails:
 
 By default, VS Code tries to infer the filename of a new created untitled file from its content. 
 
-You can disable this by setting "Workbench: Editor: Untitled: Label Format" to "name".
+You can disable this by setting `"workbench.editor.untitled.labelFormat": "name"`.

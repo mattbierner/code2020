@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The --wait command line flag"
+title: "$ code --wait"
 youtube_video_id: -8zYNkI2jEA
 tags: clid
 thumbnails:

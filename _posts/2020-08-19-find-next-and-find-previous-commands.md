@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Find Next and Find Previous commands"
+title: "Find Next and Find Previous"
 youtube_video_id: 5xcRbATQU6k
-tags:
+tags: command search
 thumbnails:
   default: https://i.ytimg.com/vi/5xcRbATQU6k/default.jpg
   medium: https://i.ytimg.com/vi/5xcRbATQU6k/mqdefault.jpg

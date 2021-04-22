@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Search: Mode setting"
+title: "Search: Mode"
 youtube_video_id: hyf53saQWNg
 tags: search setting
 thumbnails:

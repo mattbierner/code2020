@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Minimap Size setting"
+title: "Minimap: Size"
 youtube_video_id: psCnF1C6bxQ
 tags: setting minimap
 thumbnails:

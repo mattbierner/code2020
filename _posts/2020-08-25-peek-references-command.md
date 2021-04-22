@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The peek references command"
+title: "Peek references"
 youtube_video_id: _ME-veRXosk
 tags:
 thumbnails:

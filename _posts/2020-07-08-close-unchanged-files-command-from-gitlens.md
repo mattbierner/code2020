@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Close Unchanged Files command from GitLens"
+title: "GitLens: Close Unchanged Files"
 youtube_video_id: 52Y6XWTM5e0
 tags:
 thumbnails:

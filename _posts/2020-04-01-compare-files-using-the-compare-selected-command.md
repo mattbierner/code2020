@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Compare files using the compare selected command"
+title: "Compare selected"
 youtube_video_id: FvWQzNbWGQk
-tags:
+tags: explorer
 thumbnails:
   default: https://i.ytimg.com/vi/FvWQzNbWGQk/default.jpg
   medium: https://i.ytimg.com/vi/FvWQzNbWGQk/mqdefault.jpg
@@ -11,4 +11,4 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/FvWQzNbWGQk/maxresdefault.jpg
 ---
 
-Use the "Compare selected" command in the explorer to compare files using VS Code's diff view
+Use the "Compare selected" command in the explorer to compare files using VS Code's diff view.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Copy Remote Url command from the GitLens extension"
+title: "GitLens: Copy Remote Url"
 youtube_video_id: uFAxDLLUJ6o
 tags: git
 thumbnails:

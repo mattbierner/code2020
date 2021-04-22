@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The terminal focus next/previous pane commands"
+title: "Terminal focus next/previous pane"
 youtube_video_id: -p3umsw-HEs
-tags:
+tags: command terminal
 thumbnails:
   default: https://i.ytimg.com/vi/-p3umsw-HEs/default.jpg
   medium: https://i.ytimg.com/vi/-p3umsw-HEs/mqdefault.jpg
@@ -10,7 +10,7 @@ thumbnails:
   standard: https://i.ytimg.com/vi/-p3umsw-HEs/sddefault.jpg
 ---
 
-Switch focus between split terminal instances using the keyboard
+Switch focus between split terminal instances using the keyboard.
 
-Windows / Linux: alt + left/right arrow
-MacOS: cmd + option + left/right arrow
+Windows / Linux: <kbd>alt</kbd> + <kbd>left/right arrow</kbd>
+MacOS: <kbd>cmd</kbd> + <kbd>option</kbd> + <kbd>left/right arrow</kbd>

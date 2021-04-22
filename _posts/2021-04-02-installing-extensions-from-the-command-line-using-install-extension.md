@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installing extensions from the command line using --install-extension"
+title: "$ code --install-extension"
 youtube_video_id: TbPo1LAIyqA
 tags: cli 
 thumbnails:

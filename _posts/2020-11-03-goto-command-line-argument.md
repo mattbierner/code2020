@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "--goto command line argument"
+title: "$ code --goto"
 youtube_video_id: G65HhhRC2Bg
 tags: cli
 thumbnails:

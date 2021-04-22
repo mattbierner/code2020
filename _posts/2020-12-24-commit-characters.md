@@ -2,7 +2,7 @@
 layout: post
 title: "Commit characters"
 youtube_video_id: B45SOWe3MbM
-tags: setting text
+tags: setting text suggest
 thumbnails:
   default: https://i.ytimg.com/vi/B45SOWe3MbM/default.jpg
   medium: https://i.ytimg.com/vi/B45SOWe3MbM/mqdefault.jpg
@@ -13,6 +13,6 @@ thumbnails:
 
 Commit characters accept the current suggestion when typed.
 
-The exact set of commit character vary based on the language you are using but in JS/TS for example, `.' and `(` are usually treated as commit characters.
+The exact set of commit character vary based on the language you are using but in JS/TS for example, `.` and `(` are usually treated as commit characters.
 
 Use `Editor: Accept Suggestion On Commit Character` to disable commit characters entirely.

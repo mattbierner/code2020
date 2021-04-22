@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Toggle explorer command"
+title: "Toggle explorer"
 youtube_video_id: Dqu8iXKZXIc
-tags:
+tags: command
 thumbnails:
   default: https://i.ytimg.com/vi/Dqu8iXKZXIc/default.jpg
   medium: https://i.ytimg.com/vi/Dqu8iXKZXIc/mqdefault.jpg

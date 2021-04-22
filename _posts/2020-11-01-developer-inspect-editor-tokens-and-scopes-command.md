@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The 'Developer: Inspect editor tokens and scopes' command"
+title: "Developer: Inspect editor tokens and scopes"
 youtube_video_id: mC_htrJ1QPg
-tags:
+tags: command theme
 thumbnails:
   default: https://i.ytimg.com/vi/mC_htrJ1QPg/default.jpg
   medium: https://i.ytimg.com/vi/mC_htrJ1QPg/mqdefault.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 'Editor: Render Control Characters' setting"
+title: "Editor: Render Control Characters"
 youtube_video_id: MJ0Cu0f7syY
 tags:
 thumbnails:
@@ -10,4 +10,6 @@ thumbnails:
   standard: https://i.ytimg.com/vi/MJ0Cu0f7syY/sddefault.jpg
 ---
 
-Ascii control characters often cause difficult to track down problems in source code. Make them easier to spot by enabling  "Editor: Render Control Characters" in your settings.
+Ascii control characters often cause difficult to track down problems in source code.
+
+Make them easier to spot by enabling `Editor: Render Control Characters` in your settings.

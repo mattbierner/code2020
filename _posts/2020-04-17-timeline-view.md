@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The timeline view"
+title: "Timeline view"
 youtube_video_id: WalC2j0INDQ
 tags:
 thumbnails:

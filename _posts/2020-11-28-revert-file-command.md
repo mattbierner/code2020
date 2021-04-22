@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Revert File command"
+title: "Revert File"
 youtube_video_id: SUjqp7G-CBA
-tags:
+tags: command
 thumbnails:
   default: https://i.ytimg.com/vi/SUjqp7G-CBA/default.jpg
   medium: https://i.ytimg.com/vi/SUjqp7G-CBA/mqdefault.jpg

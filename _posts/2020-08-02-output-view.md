@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The output view"
+title: "Output view"
 youtube_video_id: ls6clvYr4Ow
 tags:
 thumbnails:

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Git: Rename Branch command"
+title: "Git: Rename Branch"
 youtube_video_id: 72FPp6No2UU
-tags: command
+tags: command git
 thumbnails:
   default: https://i.ytimg.com/vi/72FPp6No2UU/default.jpg
   medium: https://i.ytimg.com/vi/72FPp6No2UU/mqdefault.jpg
