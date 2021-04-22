@@ -8,12 +8,12 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     {% feed_meta %}
+
+    {% include analytics.html %}
 </head>
 
 <body class="{{page.className}}">
     {{ content }}
-
-    {% include analytics.html %}
 </body>
 
 </html>
