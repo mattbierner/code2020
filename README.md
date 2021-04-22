@@ -6,7 +6,7 @@
 
 # About
 
-[Code 20/20](https://code2020.dev) 20/20 offers hundreds of free tips and tricks for working with <a href="https://code.visualstudio.com">VS Code</a>. With concise and informative videos, we cover a wide range of VS Code topics: everything from multicursor editing to customizing a theme.
+[Code 20/20](https://code2020.dev) offers hundreds of free tips and tricks for working with <a href="https://code.visualstudio.com">VS Code</a>. With concise and informative videos, we cover a wide range of VS Code topics: everything from multicursor editing to customizing a theme.
 
 **Links**
 
