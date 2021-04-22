@@ -13,10 +13,10 @@
 @import "index";
 @import "about";
 
-@font-face {
-    font-family: "Seven Segment";
-    src: url("/images/Seven Segment.ttf") format("ttf");
-}
+// @font-face {
+//     font-family: "Seven Segment";
+//     src: url("/images/Seven Segment.ttf") format("ttf");
+// }
 
 html {
     font-size: 100%;
@@ -31,15 +31,6 @@ body {
     font-size: 18px;
     line-height: 1.34;
     color: $foreground;
-    min-height: 100%;
-    height: 100%;
-}
-
-.container {
-    margin: 0 auto;
-    max-width: 740px;
-    padding: 0 10px;
-    width: 100%;
 }
 
 .hidden {
