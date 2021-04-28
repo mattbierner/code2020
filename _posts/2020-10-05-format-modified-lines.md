@@ -2,7 +2,7 @@
 layout: post
 title: "Format modified lines"
 youtube_video_id: -7t0ewz7-jk
-tags:
+tags: format command
 thumbnails:
   default: https://i.ytimg.com/vi/-7t0ewz7-jk/default.jpg
   medium: https://i.ytimg.com/vi/-7t0ewz7-jk/mqdefault.jpg

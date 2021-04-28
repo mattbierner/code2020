@@ -2,7 +2,7 @@
 layout: post
 title: "$ code --wait"
 youtube_video_id: -8zYNkI2jEA
-tags: clid
+tags: cli
 thumbnails:
   default: https://i.ytimg.com/vi/-8zYNkI2jEA/default.jpg
   medium: https://i.ytimg.com/vi/-8zYNkI2jEA/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Font ligatures"
 youtube_video_id: Hi1IBwpm_Ls
-tags:
+tags: text
 thumbnails:
   default: https://i.ytimg.com/vi/Hi1IBwpm_Ls/default.jpg
   medium: https://i.ytimg.com/vi/Hi1IBwpm_Ls/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Go to last edit location"
 youtube_video_id: 8xHlV-0uijI
-tags:
+tags: navigation
 thumbnails:
   default: https://i.ytimg.com/vi/8xHlV-0uijI/default.jpg
   medium: https://i.ytimg.com/vi/8xHlV-0uijI/mqdefault.jpg
@@ -11,4 +11,6 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/8xHlV-0uijI/maxresdefault.jpg
 ---
 
-Jump to the last place you made a change in one of your files. This is different than 'go back' which also will jump through files you viewed without editing.
+Jump to the last place you made a change in one of your files.
+
+This is different than the `go back` command, which also will jump through files you viewed without editing.

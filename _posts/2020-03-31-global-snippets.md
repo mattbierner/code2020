@@ -2,7 +2,7 @@
 layout: post
 title: "Global snippets"
 youtube_video_id: YsZYvYjDc1A
-tags: snippets
+tags: snippet
 thumbnails:
   default: https://i.ytimg.com/vi/YsZYvYjDc1A/default.jpg
   medium: https://i.ytimg.com/vi/YsZYvYjDc1A/mqdefault.jpg

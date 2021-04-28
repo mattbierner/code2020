@@ -2,7 +2,7 @@
 layout: post
 title: "GitLens: Close Unchanged Files"
 youtube_video_id: 52Y6XWTM5e0
-tags:
+tags: GitLens command
 thumbnails:
   default: https://i.ytimg.com/vi/52Y6XWTM5e0/default.jpg
   medium: https://i.ytimg.com/vi/52Y6XWTM5e0/mqdefault.jpg

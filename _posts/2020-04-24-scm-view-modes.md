@@ -2,7 +2,7 @@
 layout: post
 title: "SCM view modes"
 youtube_video_id: UvjA94oAJio
-tags:
+tags: git SCM
 thumbnails:
   default: https://i.ytimg.com/vi/UvjA94oAJio/default.jpg
   medium: https://i.ytimg.com/vi/UvjA94oAJio/mqdefault.jpg

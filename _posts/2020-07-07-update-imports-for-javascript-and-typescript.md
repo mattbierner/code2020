@@ -2,7 +2,7 @@
 layout: post
 title: "Update imports for JavaScript and TypeScript"
 youtube_video_id: 8oCBk9BWjHQ
-tags:
+tags: JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/8oCBk9BWjHQ/default.jpg
   medium: https://i.ytimg.com/vi/8oCBk9BWjHQ/mqdefault.jpg

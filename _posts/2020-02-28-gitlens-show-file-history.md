@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "GitLens: show file history"
+title: "GitLens: Show file history"
 youtube_video_id: bRdQw4-sGIY
-tags:
+tags: git GitLens
 thumbnails:
   default: https://i.ytimg.com/vi/bRdQw4-sGIY/default.jpg
   medium: https://i.ytimg.com/vi/bRdQw4-sGIY/mqdefault.jpg

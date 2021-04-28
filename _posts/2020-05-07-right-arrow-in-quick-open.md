@@ -2,7 +2,7 @@
 layout: post
 title: "Right arrow in quick open"
 youtube_video_id: 8pHok344uOg
-tags:
+tags: command-palette
 thumbnails:
   default: https://i.ytimg.com/vi/8pHok344uOg/default.jpg
   medium: https://i.ytimg.com/vi/8pHok344uOg/mqdefault.jpg

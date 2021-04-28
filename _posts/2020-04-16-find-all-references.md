@@ -2,7 +2,7 @@
 layout: post
 title: "Find all references"
 youtube_video_id: VV-fPVHoIZQ
-tags:
+tags: IntelliSense navigation
 thumbnails:
   default: https://i.ytimg.com/vi/VV-fPVHoIZQ/default.jpg
   medium: https://i.ytimg.com/vi/VV-fPVHoIZQ/mqdefault.jpg

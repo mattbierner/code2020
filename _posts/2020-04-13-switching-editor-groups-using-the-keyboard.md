@@ -2,7 +2,7 @@
 layout: post
 title: "Switching editor groups using the keyboard"
 youtube_video_id: Tc---gIRCN0
-tags:
+tags: command workbench
 thumbnails:
   default: https://i.ytimg.com/vi/Tc---gIRCN0/default.jpg
   medium: https://i.ytimg.com/vi/Tc---gIRCN0/mqdefault.jpg

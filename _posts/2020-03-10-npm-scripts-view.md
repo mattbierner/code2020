@@ -2,7 +2,7 @@
 layout: post
 title: "Npm scripts view"
 youtube_video_id: Sf1EP5n8RoQ
-tags:
+tags: JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/Sf1EP5n8RoQ/default.jpg
   medium: https://i.ytimg.com/vi/Sf1EP5n8RoQ/mqdefault.jpg
@@ -13,4 +13,4 @@ thumbnails:
 
 View and run scripts from your workspace's `package.json` file.
 
-The npm scripts view detects all package.json files in your workspace, which is useful for working with monorepos.
+The npm scripts view detects all `package.json` files in your workspace, which is useful for working with monorepos.

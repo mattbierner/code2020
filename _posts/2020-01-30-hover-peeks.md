@@ -2,7 +2,7 @@
 layout: post
 title: "Hover peeks"
 youtube_video_id: zIAFSTNuGe8
-tags:
+tags: IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/zIAFSTNuGe8/default.jpg
   medium: https://i.ytimg.com/vi/zIAFSTNuGe8/mqdefault.jpg

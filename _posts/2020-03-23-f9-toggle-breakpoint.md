@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "F9, toggle breakpoint"
+title: "F9: Toggle breakpoint"
 youtube_video_id: uPDOtrrirb0
-tags:
+tags: command debug
 thumbnails:
   default: https://i.ytimg.com/vi/uPDOtrrirb0/default.jpg
   medium: https://i.ytimg.com/vi/uPDOtrrirb0/mqdefault.jpg

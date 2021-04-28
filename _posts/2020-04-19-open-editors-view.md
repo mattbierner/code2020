@@ -2,7 +2,7 @@
 layout: post
 title: "The open editors view"
 youtube_video_id: sn_9hzK4LIk
-tags:
+tags: explorer
 thumbnails:
   default: https://i.ytimg.com/vi/sn_9hzK4LIk/default.jpg
   medium: https://i.ytimg.com/vi/sn_9hzK4LIk/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Close other editors in group"
 youtube_video_id: o_LT-o0RvEg
-tags:
+tags: command
 thumbnails:
   default: https://i.ytimg.com/vi/o_LT-o0RvEg/default.jpg
   medium: https://i.ytimg.com/vi/o_LT-o0RvEg/mqdefault.jpg

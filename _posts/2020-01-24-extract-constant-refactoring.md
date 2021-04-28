@@ -2,7 +2,7 @@
 layout: post
 title: "Extract constant refactoring"
 youtube_video_id: kYFEa6NZuug
-tags:
+tags: refactor 
 thumbnails:
   default: https://i.ytimg.com/vi/kYFEa6NZuug/default.jpg
   medium: https://i.ytimg.com/vi/kYFEa6NZuug/mqdefault.jpg

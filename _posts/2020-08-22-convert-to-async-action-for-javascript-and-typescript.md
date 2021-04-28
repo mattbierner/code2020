@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The 'convert to async' action for JavaScript and TypeScript"
+title: "Convert to async"
 youtube_video_id: jhlnna0BTHs
-tags:
+tags: JavaScript TypeScript refactor code-action
 thumbnails:
   default: https://i.ytimg.com/vi/jhlnna0BTHs/default.jpg
   medium: https://i.ytimg.com/vi/jhlnna0BTHs/mqdefault.jpg
@@ -10,6 +10,6 @@ thumbnails:
   standard: https://i.ytimg.com/vi/jhlnna0BTHs/sddefault.jpg
 ---
 
-Use the 'Covert to async' action to convert promise chains to async+await in JavaScript and TypeScript code.
+Use the `Covert to async` action to convert promise chains to async+await in JavaScript and TypeScript code.
 
-Use the `Convert all to async' action to automatically convert every function in a file.
+Use the `Convert all to async` action to automatically convert every function in a file.

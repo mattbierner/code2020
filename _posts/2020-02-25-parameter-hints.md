@@ -2,7 +2,7 @@
 layout: post
 title: "Parameter hints"
 youtube_video_id: vi2PLcLqVxI
-tags:
+tags: IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/vi2PLcLqVxI/default.jpg
   medium: https://i.ytimg.com/vi/vi2PLcLqVxI/mqdefault.jpg

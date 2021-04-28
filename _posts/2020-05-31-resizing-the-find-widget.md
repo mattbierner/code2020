@@ -2,7 +2,7 @@
 layout: post
 title: "Resizing the find widget"
 youtube_video_id: yRwzFVTJUBs
-tags: 
+tags: find
 thumbnails:
   default: https://i.ytimg.com/vi/yRwzFVTJUBs/default.jpg
   medium: https://i.ytimg.com/vi/yRwzFVTJUBs/mqdefault.jpg

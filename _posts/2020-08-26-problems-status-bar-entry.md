@@ -2,7 +2,7 @@
 layout: post
 title: "The problems status bar entry"
 youtube_video_id: PatHCZNPCYw
-tags:
+tags: problems 
 thumbnails:
   default: https://i.ytimg.com/vi/PatHCZNPCYw/default.jpg
   medium: https://i.ytimg.com/vi/PatHCZNPCYw/mqdefault.jpg

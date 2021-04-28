@@ -2,7 +2,7 @@
 layout: post
 title: "Git branch status bar item"
 youtube_video_id: BVjI10vhTEE
-tags:
+tags: git SCM
 thumbnails:
   default: https://i.ytimg.com/vi/BVjI10vhTEE/default.jpg
   medium: https://i.ytimg.com/vi/BVjI10vhTEE/mqdefault.jpg
@@ -11,4 +11,6 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/BVjI10vhTEE/maxresdefault.jpg
 ---
 
-The current git branch is displayed in the lower left corner of the status bar. Click on it to view a list of known branches, switch between branches, or even create new branches.
+The current git branch is displayed in the lower left corner of the status bar. 
+
+Click on it to view a list of known branches, switch between branches, or even create new branches.

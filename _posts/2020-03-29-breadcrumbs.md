@@ -2,7 +2,7 @@
 layout: post
 title: "Breadcrumbs"
 youtube_video_id: lajq51wRjGA
-tags:
+tags: navigation IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/lajq51wRjGA/default.jpg
   medium: https://i.ytimg.com/vi/lajq51wRjGA/mqdefault.jpg

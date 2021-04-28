@@ -2,7 +2,7 @@
 layout: post
 title: "Terminal links"
 youtube_video_id: Hg9zekuWf8Y
-tags:
+tags: terminal
 thumbnails:
   default: https://i.ytimg.com/vi/Hg9zekuWf8Y/default.jpg
   medium: https://i.ytimg.com/vi/Hg9zekuWf8Y/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Extensions view search filters"
 youtube_video_id: B23EkLUyZ5o
-tags:
+tags: 
 thumbnails:
   default: https://i.ytimg.com/vi/B23EkLUyZ5o/default.jpg
   medium: https://i.ytimg.com/vi/B23EkLUyZ5o/mqdefault.jpg

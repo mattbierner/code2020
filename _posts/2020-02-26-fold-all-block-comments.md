@@ -2,7 +2,7 @@
 layout: post
 title: "Fold all block comments"
 youtube_video_id: oFylGMaTCTs
-tags:
+tags: command folding
 thumbnails:
   default: https://i.ytimg.com/vi/oFylGMaTCTs/default.jpg
   medium: https://i.ytimg.com/vi/oFylGMaTCTs/mqdefault.jpg

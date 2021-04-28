@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The generate 'get' and 'set' accessors refactoring for TypeScript"
+title: "Generate 'get' and 'set' accessors for TypeScript"
 youtube_video_id: I0apw6GkWpY
-tags:
+tags: TypeScript refactor
 thumbnails:
   default: https://i.ytimg.com/vi/I0apw6GkWpY/default.jpg
   medium: https://i.ytimg.com/vi/I0apw6GkWpY/mqdefault.jpg
@@ -10,6 +10,6 @@ thumbnails:
   standard: https://i.ytimg.com/vi/I0apw6GkWpY/sddefault.jpg
 ---
 
-Use the "generate 'get' and 'set' accessors" refactoring in #TypeScript to quickly encapsulate class properties.
+Use the `generate 'get' and 'set' accessors` refactoring in TypeScript to quickly encapsulate class properties.
 
 This is useful for both encapsulating fields and to customize the behavior of get/set.

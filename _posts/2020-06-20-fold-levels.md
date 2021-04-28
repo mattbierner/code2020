@@ -2,7 +2,7 @@
 layout: post
 title: "Fold Levels"
 youtube_video_id: 9adv7mPKGsw
-tags:
+tags: folding
 thumbnails:
   default: https://i.ytimg.com/vi/9adv7mPKGsw/default.jpg
   medium: https://i.ytimg.com/vi/9adv7mPKGsw/mqdefault.jpg

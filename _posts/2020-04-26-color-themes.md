@@ -2,7 +2,7 @@
 layout: post
 title: "Color themes"
 youtube_video_id: Rq6Blt2L5Lw
-tags:
+tags: workbench basics
 thumbnails:
   default: https://i.ytimg.com/vi/Rq6Blt2L5Lw/default.jpg
   medium: https://i.ytimg.com/vi/Rq6Blt2L5Lw/mqdefault.jpg

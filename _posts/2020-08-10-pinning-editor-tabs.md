@@ -2,7 +2,7 @@
 layout: post
 title: "Pinning editor tabs"
 youtube_video_id: dup2f0kXZAk
-tags:
+tags: tabs
 thumbnails:
   default: https://i.ytimg.com/vi/dup2f0kXZAk/default.jpg
   medium: https://i.ytimg.com/vi/dup2f0kXZAk/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Collapse/expand search results"
 youtube_video_id: 2_OA2ihJSxo
-tags:
+tags: search
 thumbnails:
   default: https://i.ytimg.com/vi/2_OA2ihJSxo/default.jpg
   medium: https://i.ytimg.com/vi/2_OA2ihJSxo/mqdefault.jpg

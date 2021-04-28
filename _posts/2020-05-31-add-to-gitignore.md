@@ -2,7 +2,7 @@
 layout: post
 title: "Add to .gitignore"
 youtube_video_id: NbgJgmabjQI
-tags:
+tags: git
 thumbnails:
   default: https://i.ytimg.com/vi/NbgJgmabjQI/default.jpg
   medium: https://i.ytimg.com/vi/NbgJgmabjQI/mqdefault.jpg

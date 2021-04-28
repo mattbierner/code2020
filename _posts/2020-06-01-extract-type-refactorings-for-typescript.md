@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Extract type refactorings for TypeScript"
+title: "Extract type refactorings"
 youtube_video_id: 9-_GRo4lDko
-tags:
+tags: refactor TypeScript 
 thumbnails:
   default: https://i.ytimg.com/vi/9-_GRo4lDko/default.jpg
   medium: https://i.ytimg.com/vi/9-_GRo4lDko/mqdefault.jpg

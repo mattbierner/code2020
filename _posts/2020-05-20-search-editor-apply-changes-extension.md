@@ -2,7 +2,7 @@
 layout: post
 title: "The Search Editor Apply Changes extension"
 youtube_video_id: rXMz8p5INvQ
-tags:
+tags: extension search 
 thumbnails:
   default: https://i.ytimg.com/vi/rXMz8p5INvQ/default.jpg
   medium: https://i.ytimg.com/vi/rXMz8p5INvQ/mqdefault.jpg
@@ -13,4 +13,4 @@ thumbnails:
 
 Use [this extension](https://marketplace.visualstudio.com/items?itemName=jakearl.search-editor-apply-changes) with search editors to edit files in your workspace.
 
-This also lets you perform multicursor edits across multiple files.
+This also lets you perform multi-cursor edits across multiple files.

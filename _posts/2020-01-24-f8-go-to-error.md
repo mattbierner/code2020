@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "F8, Go to error"
+title: "F8: Go to error"
 youtube_video_id: v0xFPFysz1E
-tags:
+tags: command problems
 thumbnails:
   default: https://i.ytimg.com/vi/v0xFPFysz1E/default.jpg
   medium: https://i.ytimg.com/vi/v0xFPFysz1E/mqdefault.jpg

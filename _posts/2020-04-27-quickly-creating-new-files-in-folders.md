@@ -2,7 +2,7 @@
 layout: post
 title: "Quickly creating new files in folders"
 youtube_video_id: 2QBYlfSQA6s
-tags:
+tags: explorer
 thumbnails:
   default: https://i.ytimg.com/vi/2QBYlfSQA6s/default.jpg
   medium: https://i.ytimg.com/vi/2QBYlfSQA6s/mqdefault.jpg
@@ -11,4 +11,4 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/2QBYlfSQA6s/maxresdefault.jpg
 ---
 
-You can use '/' when create a new file in VS Code's explorer to put the new file inside of a directory. VS Code will create the directory if it does not already exist
+You can use `/` when creating a new file in VS Code's explorer to put the new file inside of a directory. VS Code will create the directory automatically if it does not already exist

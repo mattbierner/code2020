@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Line blame annotations from the GitLens extension"
+title: "GitLens: Line blame annotations"
 youtube_video_id: NDiwbihN_Kc
-tags:
+tags: GitLens git
 thumbnails:
   default: https://i.ytimg.com/vi/NDiwbihN_Kc/default.jpg
   medium: https://i.ytimg.com/vi/NDiwbihN_Kc/mqdefault.jpg
@@ -13,4 +13,4 @@ thumbnails:
 
 Line blame annotations from the [GitLens extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) show information about the most recent commit that touched the current line.
 
-Hover over an annotation to view additional info about its commit and explore the commit further
+Hover over an annotation to view additional info about its commit and explore the commit further.

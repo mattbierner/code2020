@@ -2,7 +2,7 @@
 layout: post
 title: "GitLens: Toggle file blame annotations"
 youtube_video_id: NhqoWjjR3CE
-tags:
+tags: git GitLens command
 thumbnails:
   default: https://i.ytimg.com/vi/NhqoWjjR3CE/default.jpg
   medium: https://i.ytimg.com/vi/NhqoWjjR3CE/mqdefault.jpg
