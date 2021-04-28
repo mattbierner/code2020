@@ -2,7 +2,7 @@
 layout: post
 title: "Insert emoji into the integrated terminal with :emojisense: extension"
 youtube_video_id: vnMEjuHrAgk
-tags:
+tags: extension terminal
 thumbnails:
   default: https://i.ytimg.com/vi/vnMEjuHrAgk/default.jpg
   medium: https://i.ytimg.com/vi/vnMEjuHrAgk/mqdefault.jpg
@@ -13,7 +13,7 @@ thumbnails:
 
 Use a command from the [:emojisense: extension](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) to manually insert emoji into any text file or the integrated terminal.
 
-Windows: <kbd>ctrl</kbd>I
-Mac: <kbd>cmd</kbd>I
-Linux <kbd>ctrl</kbd>alt+I
+Windows: <kbd>ctrl</kbd><kbd>I</kbd>
+Mac: <kbd>cmd</kbd><kbd>I</kbd>
+Linux <kbd>ctrl</kbd><kbd>alt</kbd><kbd>I</kbd>
 

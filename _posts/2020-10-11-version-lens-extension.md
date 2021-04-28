@@ -2,7 +2,7 @@
 layout: post
 title: "The Version Lens extension"
 youtube_video_id: xBRMS4FdhHY
-tags:
+tags: extension
 thumbnails:
   default: https://i.ytimg.com/vi/xBRMS4FdhHY/default.jpg
   medium: https://i.ytimg.com/vi/xBRMS4FdhHY/mqdefault.jpg

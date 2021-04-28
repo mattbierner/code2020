@@ -2,7 +2,7 @@
 layout: post
 title: "Selection anchors"
 youtube_video_id: GpG7spzDZJE
-tags:
+tags: text
 thumbnails:
   default: https://i.ytimg.com/vi/GpG7spzDZJE/default.jpg
   medium: https://i.ytimg.com/vi/GpG7spzDZJE/mqdefault.jpg

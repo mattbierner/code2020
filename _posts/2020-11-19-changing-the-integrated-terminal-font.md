@@ -2,7 +2,7 @@
 layout: post
 title: "Changing the integrated terminal font"
 youtube_video_id: PMUDtz8roCs
-tags:
+tags: terminal setting
 thumbnails:
   default: https://i.ytimg.com/vi/PMUDtz8roCs/default.jpg
   medium: https://i.ytimg.com/vi/PMUDtz8roCs/mqdefault.jpg

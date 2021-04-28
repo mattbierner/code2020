@@ -2,7 +2,7 @@
 layout: post
 title: "Quick open navigation"
 youtube_video_id: 0sIzWtRJSpI
-tags:
+tags: command-palette
 thumbnails:
   default: https://i.ytimg.com/vi/0sIzWtRJSpI/default.jpg
   medium: https://i.ytimg.com/vi/0sIzWtRJSpI/mqdefault.jpg
@@ -11,6 +11,6 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/0sIzWtRJSpI/maxresdefault.jpg
 ---
 
-After opening Quick Open with <kbd>ctrl</kbd>P or <kbd>cmd</kbd>P, continue holding down ctrl or cmd and press P to navigate forward through the file list or <kbd>shift</kbd>P to navigate backwards.
+After opening Quick Open with <kbd>ctrl</kbd><kbd>P</kbd> or <kbd>cmd</kbd><kbd>P</kbd>, continue holding down ctrl or cmd and press P to navigate forward through the file list or <kbd>shift</kbd><kbd>P</kbd> to navigate backwards.
 
-Release ctrl or cmd to open the currently selected file.
+Release <kbd>ctrl</kbd> or <kbd>cmd</kbd> to open the currently selected file.

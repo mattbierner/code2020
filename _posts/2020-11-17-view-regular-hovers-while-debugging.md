@@ -2,7 +2,7 @@
 layout: post
 title: "View regular hovers while debugging"
 youtube_video_id: TCcfB_dzk7k
-tags:
+tags: debug IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/TCcfB_dzk7k/default.jpg
   medium: https://i.ytimg.com/vi/TCcfB_dzk7k/mqdefault.jpg
@@ -11,5 +11,5 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/TCcfB_dzk7k/maxresdefault.jpg
 ---
 
-While debugging, you can view a symbols's type information and documentation by hovering over it and then pressing alt or option 
+While debugging, you can view a symbol's type information and documentation by hovering over it and then pressing <kbd>alt</kbd>/<kbd>option</kbd>
 

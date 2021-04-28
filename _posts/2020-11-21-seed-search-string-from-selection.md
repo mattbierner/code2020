@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Seed Search String From Selection"
+title: "Seed search string from selection"
 youtube_video_id: 8rgkSRmJmyM
-tags:
+tags: search setting
 thumbnails:
   default: https://i.ytimg.com/vi/8rgkSRmJmyM/default.jpg
   medium: https://i.ytimg.com/vi/8rgkSRmJmyM/mqdefault.jpg

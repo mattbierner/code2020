@@ -2,7 +2,7 @@
 layout: post
 title: "Commit message history"
 youtube_video_id: LtXKBeHLSp8
-tags:
+tags: SCM git
 thumbnails:
   default: https://i.ytimg.com/vi/LtXKBeHLSp8/default.jpg
   medium: https://i.ytimg.com/vi/LtXKBeHLSp8/mqdefault.jpg

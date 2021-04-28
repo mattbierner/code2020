@@ -2,7 +2,7 @@
 layout: post
 title: "Display language"
 youtube_video_id: DJPgwtqAOcI
-tags:
+tags: workbench
 thumbnails:
   default: https://i.ytimg.com/vi/DJPgwtqAOcI/default.jpg
   medium: https://i.ytimg.com/vi/DJPgwtqAOcI/mqdefault.jpg

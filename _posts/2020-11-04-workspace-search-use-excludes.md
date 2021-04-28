@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Workspace search — use excludes"
+title: "Workspace search: Use excludes"
 youtube_video_id: Z4I2anhV4Qs
-tags:
+tags: search
 thumbnails:
   default: https://i.ytimg.com/vi/Z4I2anhV4Qs/default.jpg
   medium: https://i.ytimg.com/vi/Z4I2anhV4Qs/mqdefault.jpg
@@ -13,4 +13,4 @@ thumbnails:
 
 By default, workspace search excludes results from folders such as node_modules that are listed in the exclude setting or in a gitignore.
 
-You can include results from all files by toggling: 'Use exclude settings and ignore files'.
+You can include results from all files by toggling: `Use exclude settings and ignore files`.

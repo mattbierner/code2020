@@ -2,7 +2,7 @@
 layout: post
 title: "Resizing suggestions"
 youtube_video_id: SUwYYhrTj_M
-tags:
+tags: IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/SUwYYhrTj_M/default.jpg
   medium: https://i.ytimg.com/vi/SUwYYhrTj_M/mqdefault.jpg

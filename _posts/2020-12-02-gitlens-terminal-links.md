@@ -2,7 +2,7 @@
 layout: post
 title: "GitLens terminal links"
 youtube_video_id: UFTpOzR9KK8
-tags: 
+tags: GitLens terminal
 thumbnails:
   default: https://i.ytimg.com/vi/UFTpOzR9KK8/default.jpg
   medium: https://i.ytimg.com/vi/UFTpOzR9KK8/mqdefault.jpg

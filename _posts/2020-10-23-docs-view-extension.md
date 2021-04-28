@@ -2,7 +2,7 @@
 layout: post
 title: "The Docs View extension"
 youtube_video_id: I525eE-hsNc
-tags:
+tags: extension
 thumbnails:
   default: https://i.ytimg.com/vi/I525eE-hsNc/default.jpg
   medium: https://i.ytimg.com/vi/I525eE-hsNc/mqdefault.jpg

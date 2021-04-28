@@ -2,7 +2,7 @@
 layout: post
 title: "Format on save"
 youtube_video_id: ilCFoEhTyM0
-tags:
+tags: format setting
 thumbnails:
   default: https://i.ytimg.com/vi/ilCFoEhTyM0/default.jpg
   medium: https://i.ytimg.com/vi/ilCFoEhTyM0/mqdefault.jpg
@@ -11,6 +11,6 @@ thumbnails:
   maxres: https://i.ytimg.com/vi/ilCFoEhTyM0/maxresdefault.jpg
 ---
 
-Automatically format your code when you save it. No more worrying about checking in unformatted code
+Enable `editor.formatOnSave` to format your code when you save it. No more worrying about checking in unformatted code.
 
-Use the "editor.formatOnSaveMode" setting to control which lines in a file are formatted.
+Use the `editor.formatOnSaveMode` setting to control which lines in a file are formatted.

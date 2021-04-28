@@ -2,7 +2,7 @@
 layout: post
 title: "Hiding status bar entires"
 youtube_video_id: cibZub_bxWM
-tags:
+tags: workbench
 thumbnails:
   default: https://i.ytimg.com/vi/cibZub_bxWM/default.jpg
   medium: https://i.ytimg.com/vi/cibZub_bxWM/mqdefault.jpg
