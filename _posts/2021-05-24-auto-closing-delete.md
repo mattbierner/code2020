@@ -8,7 +8,7 @@ thumbnails:
   medium: https://i.ytimg.com/vi/JIGDkFpSmbk/mqdefault.jpg
   high: https://i.ytimg.com/vi/JIGDkFpSmbk/hqdefault.jpg
   standard: https://i.ytimg.com/vi/JIGDkFpSmbk/sddefault.jpg
-  maxres: https://i.ytimg.com/vi/JIGDkFpSmbk/maxresdefault.jpg
+#   maxres: https://i.ytimg.com/vi/JIGDkFpSmbk/maxresdefault.jpg
 ---
 
 The `Editor: Auto Closing Delete` setting configures what the delete key does inside of adjacent brackets/quotes:
