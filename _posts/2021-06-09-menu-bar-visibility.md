@@ -8,7 +8,7 @@ thumbnails:
   medium: https://i.ytimg.com/vi/bpXmCdh-FzM/mqdefault.jpg
   high: https://i.ytimg.com/vi/bpXmCdh-FzM/hqdefault.jpg
   standard: https://i.ytimg.com/vi/bpXmCdh-FzM/sddefault.jpg
-  maxres: https://i.ytimg.com/vi/bpXmCdh-FzM/maxresdefault.jpg
+  # maxres: https://i.ytimg.com/vi/bpXmCdh-FzM/maxresdefault.jpg
 ---
 
 Use the `Menu bar visibility` setting to configure how the menu bar is displayed on Windows and Linux. Possible values: 
