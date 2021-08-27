@@ -2,7 +2,7 @@
 layout: post
 title: "Infer function return type"
 youtube_video_id: ZRyrBMmEsvA
-tags: refactor typescript
+tags: refactor TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/ZRyrBMmEsvA/default.jpg
   medium: https://i.ytimg.com/vi/ZRyrBMmEsvA/mqdefault.jpg

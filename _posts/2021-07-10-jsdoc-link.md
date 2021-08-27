@@ -2,7 +2,7 @@
 layout: post
 title: "JSDoc links"
 youtube_video_id: 1VNsVhusfnI
-tags: javascript typescript
+tags: JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/1VNsVhusfnI/default.jpg
   medium: https://i.ytimg.com/vi/1VNsVhusfnI/mqdefault.jpg

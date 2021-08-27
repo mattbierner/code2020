@@ -2,7 +2,7 @@
 layout: post
 title: "Import Statement Completions"
 youtube_video_id: M4uF4fLVmiI
-tags: javascript typescript
+tags: JavaScript TypeScript
 thumbnails:
     default: https://i.ytimg.com/vi/M4uF4fLVmiI/default.jpg
     medium: https://i.ytimg.com/vi/M4uF4fLVmiI/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Convert to optional chaining"
 youtube_video_id: -YIG92pVqmc
-tags: JavaScript TypeScript refactor code-action
+tags: JavaScript TypeScript refactor code-actions
 thumbnails:
   default: https://i.ytimg.com/vi/-YIG92pVqmc/default.jpg
   medium: https://i.ytimg.com/vi/-YIG92pVqmc/mqdefault.jpg

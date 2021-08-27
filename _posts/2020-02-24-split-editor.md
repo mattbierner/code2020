@@ -2,7 +2,7 @@
 layout: post
 title: "Split editor"
 youtube_video_id: ycTPdsnXFF8
-tags: workbench keybinding command
+$keybindings command
 thumbnails:
   default: https://i.ytimg.com/vi/ycTPdsnXFF8/default.jpg
   medium: https://i.ytimg.com/vi/ycTPdsnXFF8/mqdefault.jpg

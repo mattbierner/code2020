@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Suggest: Preview"
 youtube_video_id: EA_KnOZI-ck
-tags: setting intellisense
+tags: setting IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/EA_KnOZI-ck/default.jpg
   medium: https://i.ytimg.com/vi/EA_KnOZI-ck/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Implement interface"
 youtube_video_id: FkeojxVf__o
-tags: code-action TypeScript
+tags: code-actions TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/FkeojxVf__o/default.jpg
   medium: https://i.ytimg.com/vi/FkeojxVf__o/mqdefault.jpg

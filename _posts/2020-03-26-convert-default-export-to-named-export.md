@@ -2,7 +2,7 @@
 layout: post
 title: "Convert default export to named export"
 youtube_video_id: GFSJdhwhYxA
-tags: refactor code-action JavaScript TypeScript
+tags: refactor code-actions JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/GFSJdhwhYxA/default.jpg
   medium: https://i.ytimg.com/vi/GFSJdhwhYxA/mqdefault.jpg

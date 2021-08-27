@@ -2,7 +2,7 @@
 layout: post
 title: "Convert to template string"
 youtube_video_id: 4k6OZ-xZI6g
-tags: code-action refactor JavaScript TypeScript
+tags: code-actions refactor JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/4k6OZ-xZI6g/default.jpg
   medium: https://i.ytimg.com/vi/4k6OZ-xZI6g/mqdefault.jpg

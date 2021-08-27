@@ -2,7 +2,7 @@
 layout: post
 title: "Snippet keybindings"
 youtube_video_id: VbGM4zBqg-k
-tags: snippet keybinding
+$keybindings
 thumbnails:
   default: https://i.ytimg.com/vi/VbGM4zBqg-k/default.jpg
   medium: https://i.ytimg.com/vi/VbGM4zBqg-k/mqdefault.jpg

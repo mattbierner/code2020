@@ -2,7 +2,7 @@
 layout: post
 title: "Split terminal"
 youtube_video_id: IuXjFpV_hwc
-tags: terminal keybinding
+$keybindings
 thumbnails:
   default: https://i.ytimg.com/vi/IuXjFpV_hwc/default.jpg
   medium: https://i.ytimg.com/vi/IuXjFpV_hwc/mqdefault.jpg

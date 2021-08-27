@@ -2,7 +2,7 @@
 layout: post
 title: "Delete all right and delete all left"
 youtube_video_id: Y57mCgW634I
-tags: keybinding
+$keybindings
 thumbnails:
   default: https://i.ytimg.com/vi/Y57mCgW634I/default.jpg
   medium: https://i.ytimg.com/vi/Y57mCgW634I/mqdefault.jpg

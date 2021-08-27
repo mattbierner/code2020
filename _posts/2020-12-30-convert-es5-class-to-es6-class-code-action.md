@@ -2,7 +2,7 @@
 layout: post
 title: "Convert ES5 class to ES6 class code action"
 youtube_video_id: JNxb9WB-3y4
-tags: JavaScript code-action refactor
+tags: JavaScript code-actions refactor
 thumbnails:
   default: https://i.ytimg.com/vi/JNxb9WB-3y4/default.jpg
   medium: https://i.ytimg.com/vi/JNxb9WB-3y4/mqdefault.jpg

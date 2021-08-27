@@ -2,7 +2,7 @@
 layout: post
 title: "Infer parameter types from usage"
 youtube_video_id: oJnSmSexkMY
-tags: code-action JavaScript TypeScript
+tags: code-actions JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/oJnSmSexkMY/default.jpg
   medium: https://i.ytimg.com/vi/oJnSmSexkMY/mqdefault.jpg

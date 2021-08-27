@@ -2,7 +2,7 @@
 layout: post
 title: "TypeScript: Go to project configuration"
 youtube_video_id: jzoiX338A18
-tags: javascript typescript command
+tags: JavaScript TypeScript command
 thumbnails:
   default: https://i.ytimg.com/vi/jzoiX338A18/default.jpg
   medium: https://i.ytimg.com/vi/jzoiX338A18/mqdefault.jpg

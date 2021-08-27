@@ -2,7 +2,7 @@
 layout: post
 title: "Add missing imports on save for JavaScript and TypeScript"
 youtube_video_id: Hd8yMapJCAw
-tags: JavaScript TypeScript code-action
+tags: JavaScript TypeScript code-actions
 thumbnails:
   default: https://i.ytimg.com/vi/Hd8yMapJCAw/default.jpg
   medium: https://i.ytimg.com/vi/Hd8yMapJCAw/mqdefault.jpg

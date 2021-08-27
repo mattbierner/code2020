@@ -2,7 +2,7 @@
 layout: post
 title: "Convert to async"
 youtube_video_id: jhlnna0BTHs
-tags: JavaScript TypeScript refactor code-action
+tags: JavaScript TypeScript refactor code-actions
 thumbnails:
   default: https://i.ytimg.com/vi/jhlnna0BTHs/default.jpg
   medium: https://i.ytimg.com/vi/jhlnna0BTHs/mqdefault.jpg
