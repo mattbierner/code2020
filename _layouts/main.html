@@ -22,7 +22,14 @@ layout: default
     </div>
 
     <div class="site-tags">
-        <h1>Tags</h1>
+        <h1>Featured</h1>
+        <nav class="featured-tags">
+            <a class="featured-tag" href="/tag/extensions">Extensions</a>
+            <a class="featured-tag" href="/tag/settings">Settings</a>
+            <a class="featured-tag" href="/tag/JavaScript">JavaScript</a>
+        </nav>
+
+        <h1>All Tags</h1>
         <nav>
             {% for tag in site.tags %}
                 <a class="tag" href="/tag/{{ tag[0] | slugify }}">{{ tag[0] }}</a>

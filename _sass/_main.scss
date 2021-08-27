@@ -102,7 +102,21 @@
         h1 {
             margin-bottom: 0.4em;
         }
+        
+        .featured-tags {
+            margin-bottom: 2em;
+        }
 
+        a.featured-tag {
+            display: block;
+            color: $foreground;
+            font-size: 1.2em;
+            margin-bottom: 0.2em;
+
+            &:hover {
+                color: $accent-color;
+            }
+        }
         a.tag {
             display: block;
             color: $foreground;
