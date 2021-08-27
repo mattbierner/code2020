@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: scm"
-tag: scm
+title: "Tag: SCM"
+tag: SCM
 robots: noindex
 ---

@@ -18,6 +18,7 @@ tag_dir = 'tag/'
 
 filenames = glob.glob(post_dir + '*md')
 
+normalized_tag_to_name = {}
 total_tags = []
 for filename in filenames:
     f = open(filename, 'r', encoding='utf8')
@@ -26,7 +27,10 @@ for filename in filenames:
         if crawl:
             current_tags = line.strip().split()
             if current_tags[0] == 'tags:':
-                total_tags.extend([tag.lower() for tag in current_tags[1:]])
+                for tag in current_tags[1:]:
+                    total_tags.append(tag.lower())
+                    normalized_tag_to_name[tag.lower()] = tag
+
                 crawl = False
                 break
         if line.strip() == '---':
@@ -48,7 +52,8 @@ if not os.path.exists(tag_dir):
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    tagLabel = normalized_tag_to_name[tag]
+    write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tagLabel + '\"\ntag: ' + tagLabel + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: emmet"
-tag: emmet
+title: "Tag: Emmet"
+tag: Emmet
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: macos"
-tag: macos
+title: "Tag: MacOS"
+tag: MacOS
 robots: noindex
 ---

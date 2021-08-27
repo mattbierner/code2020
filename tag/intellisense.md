@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: intellisense"
-tag: intellisense
+title: "Tag: IntelliSense"
+tag: IntelliSense
 robots: noindex
 ---

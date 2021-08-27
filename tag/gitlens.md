@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: gitlens"
-tag: gitlens
+title: "Tag: GitLens"
+tag: GitLens
 robots: noindex
 ---

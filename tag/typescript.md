@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: typescript"
-tag: typescript
+title: "Tag: TypeScript"
+tag: TypeScript
 robots: noindex
 ---
