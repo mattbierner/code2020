@@ -2,7 +2,7 @@
 layout: post
 title: "TS/JS Postfix Completions"
 youtube_video_id: vItrG-hnRjU
-tags: extension JavaScript TypeScript
+tags: extensions JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/vItrG-hnRjU/default.jpg
   medium: https://i.ytimg.com/vi/vItrG-hnRjU/mqdefault.jpg

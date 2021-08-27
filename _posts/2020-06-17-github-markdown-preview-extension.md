@@ -2,7 +2,7 @@
 layout: post
 title: "The GitHub Markdown Preview extension"
 youtube_video_id: zKQbdi9xTJY
-tags: extension markdown
+tags: extensions markdown
 thumbnails:
   default: https://i.ytimg.com/vi/zKQbdi9xTJY/default.jpg
   medium: https://i.ytimg.com/vi/zKQbdi9xTJY/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Debug: Toolbar Location"
 youtube_video_id: VXoRsWnAkQE
-tags: debug setting
+tags: debugging settings
 thumbnails:
   default: https://i.ytimg.com/vi/VXoRsWnAkQE/default.jpg
   medium: https://i.ytimg.com/vi/VXoRsWnAkQE/mqdefault.jpg

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: extension"
-tag: extension
+title: "Tag: editor"
+tag: editor
 robots: noindex
 ---

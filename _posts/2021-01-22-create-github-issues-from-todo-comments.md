@@ -2,7 +2,7 @@
 layout: post
 title: "Create GitHub issues from TODO comments"
 youtube_video_id: EIocopccF4s
-tags: git GitHub extension
+tags: git GitHub extensions
 thumbnails:
   default: https://i.ytimg.com/vi/EIocopccF4s/default.jpg
   medium: https://i.ytimg.com/vi/EIocopccF4s/mqdefault.jpg

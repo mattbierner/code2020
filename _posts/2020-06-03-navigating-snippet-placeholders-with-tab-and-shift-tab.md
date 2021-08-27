@@ -2,7 +2,7 @@
 layout: post
 title: "Navigating snippet placeholders"
 youtube_video_id: 0XMkg_i5Fqw
-tags: IntelliSense snippet
+tags: IntelliSense snippets
 thumbnails:
   default: https://i.ytimg.com/vi/0XMkg_i5Fqw/default.jpg
   medium: https://i.ytimg.com/vi/0XMkg_i5Fqw/mqdefault.jpg

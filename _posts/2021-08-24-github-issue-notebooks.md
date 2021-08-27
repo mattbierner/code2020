@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub Issue Notebooks"
 youtube_video_id: zYk-wCkXUvs
-tags: GitHub git extension notebooks
+tags: GitHub git extensions notebooks
 thumbnails:
     default: https://i.ytimg.com/vi/zYk-wCkXUvs/default.jpg
     medium: https://i.ytimg.com/vi/zYk-wCkXUvs/mqdefault.jpg

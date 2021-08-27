@@ -2,7 +2,7 @@
 layout: post
 title: "The HexEditor extension"
 youtube_video_id: oVm4IFYxHlw
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/oVm4IFYxHlw/default.jpg
   medium: https://i.ytimg.com/vi/oVm4IFYxHlw/mqdefault.jpg

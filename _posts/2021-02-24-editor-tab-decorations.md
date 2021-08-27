@@ -2,7 +2,7 @@
 layout: post
 title: "Editor tab decorations"
 youtube_video_id: EhZrKAqXr9c
-tags: setting UI
+tags: settings UI
 thumbnails:
   default: https://i.ytimg.com/vi/EhZrKAqXr9c/default.jpg
   medium: https://i.ytimg.com/vi/EhZrKAqXr9c/mqdefault.jpg

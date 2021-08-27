@@ -2,7 +2,7 @@
 layout: post
 title: "Window: Close When Empty"
 youtube_video_id: rege7oeQIg4
-tags: workbench setting
+tags: workbench settings
 thumbnails:
   default: https://i.ytimg.com/vi/rege7oeQIg4/default.jpg
   medium: https://i.ytimg.com/vi/rege7oeQIg4/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "The $TM_FILENAME snippet variable"
 youtube_video_id: KhaQw923268
-tags: snippet
+tags: snippets
 thumbnails:
   default: https://i.ytimg.com/vi/KhaQw923268/default.jpg
   medium: https://i.ytimg.com/vi/KhaQw923268/mqdefault.jpg

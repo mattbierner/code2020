@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Folding Highlight"
 youtube_video_id: blGKioVWzG8
-tags: setting folding
+tags: settings folding
 thumbnails:
   default: https://i.ytimg.com/vi/blGKioVWzG8/default.jpg
   medium: https://i.ytimg.com/vi/blGKioVWzG8/mqdefault.jpg

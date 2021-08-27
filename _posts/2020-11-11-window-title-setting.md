@@ -2,7 +2,7 @@
 layout: post
 title: "Window: Title"
 youtube_video_id: 7TYkqmY8R-o
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/7TYkqmY8R-o/default.jpg
   medium: https://i.ytimg.com/vi/7TYkqmY8R-o/mqdefault.jpg

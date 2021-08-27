@@ -2,7 +2,7 @@
 layout: post
 title: "Explorer: Sort Order"
 youtube_video_id: lv0vTMA56-g
-tags: setting explorer
+tags: settings explorer
 thumbnails:
   default: https://i.ytimg.com/vi/lv0vTMA56-g/default.jpg
   medium: https://i.ytimg.com/vi/lv0vTMA56-g/mqdefault.jpg

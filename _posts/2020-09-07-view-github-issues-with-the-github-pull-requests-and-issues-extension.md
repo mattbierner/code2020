@@ -2,7 +2,7 @@
 layout: post
 title: "View GitHub issues with the GitHub Pull Requests and Issues extension"
 youtube_video_id: bBDg9Iz0DAw
-tags: GitHub extension
+tags: GitHub extensions
 thumbnails:
   default: https://i.ytimg.com/vi/bBDg9Iz0DAw/default.jpg
   medium: https://i.ytimg.com/vi/bBDg9Iz0DAw/mqdefault.jpg

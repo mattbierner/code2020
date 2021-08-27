@@ -2,7 +2,7 @@
 layout: post
 title: "The editorconfig extension"
 youtube_video_id: _fcQDS1iTPw
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/_fcQDS1iTPw/default.jpg
   medium: https://i.ytimg.com/vi/_fcQDS1iTPw/mqdefault.jpg

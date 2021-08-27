@@ -2,7 +2,7 @@
 layout: post
 title: "Searching through commits with the Git Lens extension"
 youtube_video_id: RM9_aH_VFC0
-tags: extension git
+tags: extensions git
 thumbnails:
   default: https://i.ytimg.com/vi/RM9_aH_VFC0/default.jpg
   medium: https://i.ytimg.com/vi/RM9_aH_VFC0/mqdefault.jpg

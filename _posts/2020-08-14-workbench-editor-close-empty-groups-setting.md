@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench: Editor: Close empty groups"
 youtube_video_id: aV2LmfRQ-U0
-tags: setting workbench
+tags: settings workbench
 thumbnails:
   default: https://i.ytimg.com/vi/aV2LmfRQ-U0/default.jpg
   medium: https://i.ytimg.com/vi/aV2LmfRQ-U0/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench › Tree: Indent"
 youtube_video_id: 3BlwYUjUqyc
-tags: setting explorer
+tags: settings explorer
 thumbnails:
   default: https://i.ytimg.com/vi/3BlwYUjUqyc/default.jpg
   medium: https://i.ytimg.com/vi/3BlwYUjUqyc/mqdefault.jpg

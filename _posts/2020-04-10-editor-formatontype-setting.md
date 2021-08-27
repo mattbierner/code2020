@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Format on type"
 youtube_video_id: m-3Symq2-V8
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/m-3Symq2-V8/default.jpg
   medium: https://i.ytimg.com/vi/m-3Symq2-V8/mqdefault.jpg

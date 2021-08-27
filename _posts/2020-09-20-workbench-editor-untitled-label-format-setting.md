@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench › Editor › Untitled: Label Format"
 youtube_video_id: jKQDDLZxyIs
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/jKQDDLZxyIs/default.jpg
   medium: https://i.ytimg.com/vi/jKQDDLZxyIs/mqdefault.jpg

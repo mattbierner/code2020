@@ -2,7 +2,7 @@
 layout: post
 title: "The CodeTour extension"
 youtube_video_id: cUoYQKZPZcg
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/cUoYQKZPZcg/default.jpg
   medium: https://i.ytimg.com/vi/cUoYQKZPZcg/mqdefault.jpg

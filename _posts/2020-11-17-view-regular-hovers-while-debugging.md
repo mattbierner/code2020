@@ -2,7 +2,7 @@
 layout: post
 title: "View regular hovers while debugging"
 youtube_video_id: TCcfB_dzk7k
-tags: debug IntelliSense
+tags: debugging IntelliSense
 thumbnails:
   default: https://i.ytimg.com/vi/TCcfB_dzk7k/default.jpg
   medium: https://i.ytimg.com/vi/TCcfB_dzk7k/mqdefault.jpg

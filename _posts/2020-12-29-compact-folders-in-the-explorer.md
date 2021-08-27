@@ -2,7 +2,7 @@
 layout: post
 title: "Compact folders in the explorer"
 youtube_video_id: _Em_1u5sRoo
-tags: workbench explorer setting
+tags: workbench explorer settings
 thumbnails:
   default: https://i.ytimg.com/vi/_Em_1u5sRoo/default.jpg
   medium: https://i.ytimg.com/vi/_Em_1u5sRoo/mqdefault.jpg

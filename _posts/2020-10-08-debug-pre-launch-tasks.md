@@ -2,7 +2,7 @@
 layout: post
 title: "Debug pre launch tasks"
 youtube_video_id: sCoReZe1FFI
-tags: debug tasks
+tags: debugging tasks
 thumbnails:
   default: https://i.ytimg.com/vi/sCoReZe1FFI/default.jpg
   medium: https://i.ytimg.com/vi/sCoReZe1FFI/mqdefault.jpg

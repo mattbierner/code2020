@@ -2,7 +2,7 @@
 layout: post
 title: "Panel: Opens Maximized"
 youtube_video_id: D1DiQfhIUIQ
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/D1DiQfhIUIQ/default.jpg
   medium: https://i.ytimg.com/vi/D1DiQfhIUIQ/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Pinned tab sizing settings"
 youtube_video_id: 0voKBoQVp_w
-tags: setting tabs
+tags: settings tabs
 thumbnails:
   default: https://i.ytimg.com/vi/0voKBoQVp_w/default.jpg
   medium: https://i.ytimg.com/vi/0voKBoQVp_w/mqdefault.jpg

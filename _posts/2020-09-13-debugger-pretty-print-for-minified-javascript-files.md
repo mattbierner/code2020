@@ -2,7 +2,7 @@
 layout: post
 title: "Debugger pretty print for minified JavaScript files"
 youtube_video_id: ShiXsfIDAxc
-tags: debug JavaScript
+tags: debugging JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/ShiXsfIDAxc/default.jpg
   medium: https://i.ytimg.com/vi/ShiXsfIDAxc/mqdefault.jpg

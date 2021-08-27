@@ -2,7 +2,7 @@
 layout: post
 title: "The Github Pull Requests extension"
 youtube_video_id: GO9Qp6eZ-Ps
-tags: GitHub extension git SCM
+tags: GitHub extensions git SCM
 thumbnails:
   default: https://i.ytimg.com/vi/GO9Qp6eZ-Ps/default.jpg
   medium: https://i.ytimg.com/vi/GO9Qp6eZ-Ps/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Files: Associations"
 youtube_video_id: 4wTYV4Zjq5g
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/4wTYV4Zjq5g/default.jpg
   medium: https://i.ytimg.com/vi/4wTYV4Zjq5g/mqdefault.jpg

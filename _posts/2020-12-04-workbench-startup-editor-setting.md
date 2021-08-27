@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench: Startup editor"
 youtube_video_id: U9mTfMe1Ke8
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/U9mTfMe1Ke8/default.jpg
   medium: https://i.ytimg.com/vi/U9mTfMe1Ke8/mqdefault.jpg

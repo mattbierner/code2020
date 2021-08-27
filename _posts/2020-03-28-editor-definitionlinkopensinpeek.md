@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Definition Link Opens In Peek"
 youtube_video_id: Dof-ygCcB1w
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/Dof-ygCcB1w/default.jpg
   medium: https://i.ytimg.com/vi/Dof-ygCcB1w/mqdefault.jpg

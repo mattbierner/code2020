@@ -2,7 +2,7 @@
 layout: post
 title: "Inline breakpoints"
 youtube_video_id: HzYKDfTMCtg
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/HzYKDfTMCtg/default.jpg
   medium: https://i.ytimg.com/vi/HzYKDfTMCtg/mqdefault.jpg

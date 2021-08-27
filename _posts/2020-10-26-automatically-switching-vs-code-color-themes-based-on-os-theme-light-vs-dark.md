@@ -2,7 +2,7 @@
 layout: post
 title: "Window: Auto Detect Color Scheme"
 youtube_video_id: RECDMCe8i5U
-tags: setting theme
+tags: settings theme
 thumbnails:
   default: https://i.ytimg.com/vi/RECDMCe8i5U/default.jpg
   medium: https://i.ytimg.com/vi/RECDMCe8i5U/mqdefault.jpg

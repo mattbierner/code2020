@@ -2,7 +2,7 @@
 layout: post
 title: "Terminal default location"
 youtube_video_id: PULGGzRZLB4
-tags: terminal setting
+tags: terminal settings
 thumbnails:
     default: https://i.ytimg.com/vi/PULGGzRZLB4/default.jpg
     medium: https://i.ytimg.com/vi/PULGGzRZLB4/mqdefault.jpg

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: setting"
-tag: setting
+title: "Tag: css"
+tag: css
 robots: noindex
 ---

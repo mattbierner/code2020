@@ -2,7 +2,7 @@
 layout: post
 title: "Breadcrumbs: File path"
 youtube_video_id: 2ZIRe6XPLg4
-tags: setting breadcrumbs
+tags: settings breadcrumbs
 thumbnails:
   default: https://i.ytimg.com/vi/2ZIRe6XPLg4/default.jpg
   medium: https://i.ytimg.com/vi/2ZIRe6XPLg4/mqdefault.jpg

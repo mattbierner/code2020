@@ -2,7 +2,7 @@
 layout: post
 title: "Interactive rebase editor from the GitLens extension"
 youtube_video_id: P5p71fguFNI
-tags: git SCM extension
+tags: git SCM extensions
 thumbnails:
   default: https://i.ytimg.com/vi/P5p71fguFNI/default.jpg
   medium: https://i.ytimg.com/vi/P5p71fguFNI/mqdefault.jpg

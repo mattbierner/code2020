@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown Styles"
 youtube_video_id: MKYUP_8R8tU
-tags: markdown setting
+tags: markdown settings
 thumbnails:
   default: https://i.ytimg.com/vi/MKYUP_8R8tU/default.jpg
   medium: https://i.ytimg.com/vi/MKYUP_8R8tU/mqdefault.jpg

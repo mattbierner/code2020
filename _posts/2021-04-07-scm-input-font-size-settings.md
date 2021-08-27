@@ -2,7 +2,7 @@
 layout: post
 title: "SCM: Input font size"
 youtube_video_id: GtBULzgwO8g
-tags: SCM setting
+tags: SCM settings
 thumbnails:
   default: https://i.ytimg.com/vi/GtBULzgwO8g/default.jpg
   medium: https://i.ytimg.com/vi/GtBULzgwO8g/mqdefault.jpg

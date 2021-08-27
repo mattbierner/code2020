@@ -2,7 +2,7 @@
 layout: post
 title: "Compound debug configurations"
 youtube_video_id: ydtfSRLJXXY
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/ydtfSRLJXXY/default.jpg
   medium: https://i.ytimg.com/vi/ydtfSRLJXXY/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Editor › Minimap: Render Characters"
 youtube_video_id: f1TTFWJKWKc
-tags: setting minimap
+tags: settings minimap
 thumbnails:
   default: https://i.ytimg.com/vi/f1TTFWJKWKc/default.jpg
   medium: https://i.ytimg.com/vi/f1TTFWJKWKc/mqdefault.jpg

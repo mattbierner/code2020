@@ -2,7 +2,7 @@
 layout: post
 title: "Window: Native tabs"
 youtube_video_id: kEGeux1WBXA
-tags: tabs setting MacOS
+tags: tabs settings MacOS
 thumbnails:
   default: https://i.ytimg.com/vi/kEGeux1WBXA/default.jpg
   medium: https://i.ytimg.com/vi/kEGeux1WBXA/mqdefault.jpg

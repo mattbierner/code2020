@@ -2,7 +2,7 @@
 layout: post
 title: "Editor › Scrollbar › Vertical / Horizontal"
 youtube_video_id: xt-Jp8a7mXI
-tags: terminal setting
+tags: terminal settings
 thumbnails:
     default: https://i.ytimg.com/vi/xt-Jp8a7mXI/default.jpg
     medium: https://i.ytimg.com/vi/xt-Jp8a7mXI/mqdefault.jpg

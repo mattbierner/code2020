@@ -2,7 +2,7 @@
 layout: post
 title: "Fast scroll"
 youtube_video_id: iZP1cfAI_rY
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/iZP1cfAI_rY/default.jpg
   medium: https://i.ytimg.com/vi/iZP1cfAI_rY/mqdefault.jpg

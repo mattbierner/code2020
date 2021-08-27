@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Cursor style"
 youtube_video_id: n-7-Bzoppq4
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/n-7-Bzoppq4/default.jpg
   medium: https://i.ytimg.com/vi/n-7-Bzoppq4/mqdefault.jpg

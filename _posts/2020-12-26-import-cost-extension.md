@@ -2,7 +2,7 @@
 layout: post
 title: "The Import Cost extension"
 youtube_video_id: l8k3IokpWDo
-tags: extension JavaScript TypeScript
+tags: extensions JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/l8k3IokpWDo/default.jpg
   medium: https://i.ytimg.com/vi/l8k3IokpWDo/mqdefault.jpg

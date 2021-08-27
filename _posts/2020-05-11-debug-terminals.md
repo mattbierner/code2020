@@ -2,7 +2,7 @@
 layout: post
 title: "Debug terminals"
 youtube_video_id: iZ3HPlzqKIQ
-tags: debug JavaScript
+tags: debugging JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/iZ3HPlzqKIQ/default.jpg
   medium: https://i.ytimg.com/vi/iZ3HPlzqKIQ/mqdefault.jpg

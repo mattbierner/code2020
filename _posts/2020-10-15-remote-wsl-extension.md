@@ -2,7 +2,7 @@
 layout: post
 title: "The Remote WSL extension"
 youtube_video_id: HluqqlSotGg
-tags: extension remote windows
+tags: extensions remote windows
 thumbnails:
   default: https://i.ytimg.com/vi/HluqqlSotGg/default.jpg
   medium: https://i.ytimg.com/vi/HluqqlSotGg/mqdefault.jpg

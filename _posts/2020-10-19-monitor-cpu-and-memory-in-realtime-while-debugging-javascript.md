@@ -2,7 +2,7 @@
 layout: post
 title: "Monitor CPU and memory in realtime while debugging JavaScript"
 youtube_video_id: 9UI0JT8y2c4
-tags: debug JavaScript 
+tags: debugging JavaScript 
 thumbnails:
   default: https://i.ytimg.com/vi/9UI0JT8y2c4/default.jpg
   medium: https://i.ytimg.com/vi/9UI0JT8y2c4/mqdefault.jpg

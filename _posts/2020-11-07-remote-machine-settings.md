@@ -2,7 +2,7 @@
 layout: post
 title: "Remote machine settings"
 youtube_video_id: UxTgc3cn5Nk
-tags: remote setting
+tags: remote settings
 thumbnails:
   default: https://i.ytimg.com/vi/UxTgc3cn5Nk/default.jpg
   medium: https://i.ytimg.com/vi/UxTgc3cn5Nk/mqdefault.jpg

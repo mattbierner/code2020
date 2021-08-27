@@ -2,7 +2,7 @@
 layout: post
 title: "The emojisense extension"
 youtube_video_id: QXDG6NDf48s
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/QXDG6NDf48s/default.jpg
   medium: https://i.ytimg.com/vi/QXDG6NDf48s/mqdefault.jpg

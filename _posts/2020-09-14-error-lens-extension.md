@@ -2,7 +2,7 @@
 layout: post
 title: "The Error Lens extension"
 youtube_video_id: _ZBFUgwHRYw
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/_ZBFUgwHRYw/default.jpg
   medium: https://i.ytimg.com/vi/_ZBFUgwHRYw/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Writing multiline expressions in the debug console"
 youtube_video_id: p8zMXKFlkqk
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/p8zMXKFlkqk/default.jpg
   medium: https://i.ytimg.com/vi/p8zMXKFlkqk/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Files: Exclude"
 youtube_video_id: ktJsJut9myQ
-tags: setting explorer
+tags: settings explorer
 thumbnails:
   default: https://i.ytimg.com/vi/ktJsJut9myQ/default.jpg
   medium: https://i.ytimg.com/vi/ktJsJut9myQ/mqdefault.jpg

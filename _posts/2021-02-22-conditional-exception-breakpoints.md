@@ -2,7 +2,7 @@
 layout: post
 title: "Conditional exception breakpoints"
 youtube_video_id: pGFx3d1Dv0A
-tags: debug JavaScript TypeScript
+tags: debugging JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/pGFx3d1Dv0A/default.jpg
   medium: https://i.ytimg.com/vi/pGFx3d1Dv0A/mqdefault.jpg

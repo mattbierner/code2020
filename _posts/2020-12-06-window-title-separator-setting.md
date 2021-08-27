@@ -2,7 +2,7 @@
 layout: post
 title: "Window: Title Separator"
 youtube_video_id: iYKu8sEh3Jo
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/iYKu8sEh3Jo/default.jpg
   medium: https://i.ytimg.com/vi/iYKu8sEh3Jo/mqdefault.jpg

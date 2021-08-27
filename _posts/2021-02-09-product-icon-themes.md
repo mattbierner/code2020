@@ -2,7 +2,7 @@
 layout: post
 title: "Product Icon Themes"
 youtube_video_id: 8CMo0L2odLU
-tags: setting ui theme
+tags: settings ui theme
 thumbnails:
   default: https://i.ytimg.com/vi/8CMo0L2odLU/default.jpg
   medium: https://i.ytimg.com/vi/8CMo0L2odLU/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Render Whitespace"
 youtube_video_id: a4trJzITQpM
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/a4trJzITQpM/default.jpg
   medium: https://i.ytimg.com/vi/a4trJzITQpM/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "The Toggle extension"
 youtube_video_id: b_JY16tr2bk
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/b_JY16tr2bk/default.jpg
   medium: https://i.ytimg.com/vi/b_JY16tr2bk/mqdefault.jpg

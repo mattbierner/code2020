@@ -2,7 +2,7 @@
 layout: post
 title: "Search: Mode"
 youtube_video_id: hyf53saQWNg
-tags: search setting
+tags: search settings
 thumbnails:
   default: https://i.ytimg.com/vi/hyf53saQWNg/default.jpg
   medium: https://i.ytimg.com/vi/hyf53saQWNg/mqdefault.jpg

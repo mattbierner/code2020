@@ -2,7 +2,7 @@
 layout: post
 title: "The Docker extension"
 youtube_video_id: dh1-8EtgSDE
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/dh1-8EtgSDE/default.jpg
   medium: https://i.ytimg.com/vi/dh1-8EtgSDE/mqdefault.jpg

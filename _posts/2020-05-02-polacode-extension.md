@@ -2,7 +2,7 @@
 layout: post
 title: "The Polacode extension"
 youtube_video_id: HDggj0JzxOI
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/HDggj0JzxOI/default.jpg
   medium: https://i.ytimg.com/vi/HDggj0JzxOI/mqdefault.jpg

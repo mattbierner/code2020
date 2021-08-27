@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Quick suggestions"
 youtube_video_id: aFQFxektD-M
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/aFQFxektD-M/default.jpg
   medium: https://i.ytimg.com/vi/aFQFxektD-M/mqdefault.jpg

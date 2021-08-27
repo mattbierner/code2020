@@ -2,7 +2,7 @@
 layout: post
 title: "Debug: Inline values"
 youtube_video_id: nWW0997lu6I
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/nWW0997lu6I/default.jpg
   medium: https://i.ytimg.com/vi/nWW0997lu6I/mqdefault.jpg

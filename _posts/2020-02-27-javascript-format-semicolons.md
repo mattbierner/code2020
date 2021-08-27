@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript › Format: Semicolons"
 youtube_video_id: 4JNp4S2iaqg
-tags: setting JavaScript TypeScript
+tags: settings JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/4JNp4S2iaqg/default.jpg
   medium: https://i.ytimg.com/vi/4JNp4S2iaqg/mqdefault.jpg

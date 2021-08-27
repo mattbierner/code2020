@@ -2,7 +2,7 @@
 layout: post
 title: "SCM: Input font family"
 youtube_video_id: KkoGGM255ZQ
-tags: setting SCM
+tags: settings SCM
 thumbnails:
   default: https://i.ytimg.com/vi/KkoGGM255ZQ/default.jpg
   medium: https://i.ytimg.com/vi/KkoGGM255ZQ/mqdefault.jpg

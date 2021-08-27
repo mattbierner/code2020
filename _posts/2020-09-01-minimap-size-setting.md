@@ -2,7 +2,7 @@
 layout: post
 title: "Minimap: Size"
 youtube_video_id: psCnF1C6bxQ
-tags: setting minimap
+tags: settings minimap
 thumbnails:
   default: https://i.ytimg.com/vi/psCnF1C6bxQ/default.jpg
   medium: https://i.ytimg.com/vi/psCnF1C6bxQ/mqdefault.jpg

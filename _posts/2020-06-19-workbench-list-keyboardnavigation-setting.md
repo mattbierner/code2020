@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench › List: Automatic Keyboard Navigation"
 youtube_video_id: N81yz6KzsUQ
-tags: setting explorer
+tags: settings explorer
 thumbnails:
   default: https://i.ytimg.com/vi/N81yz6KzsUQ/default.jpg
   medium: https://i.ytimg.com/vi/N81yz6KzsUQ/mqdefault.jpg

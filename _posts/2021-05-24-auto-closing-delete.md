@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Auto Closing Delete"
 youtube_video_id: JIGDkFpSmbk
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/JIGDkFpSmbk/default.jpg
   medium: https://i.ytimg.com/vi/JIGDkFpSmbk/mqdefault.jpg

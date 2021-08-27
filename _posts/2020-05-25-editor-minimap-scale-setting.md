@@ -2,7 +2,7 @@
 layout: post
 title: "Editor › Minimap: Scale"
 youtube_video_id: ncF0sAIDbvE
-tags: setting minimap
+tags: settings minimap
 thumbnails:
   default: https://i.ytimg.com/vi/ncF0sAIDbvE/default.jpg
   medium: https://i.ytimg.com/vi/ncF0sAIDbvE/mqdefault.jpg

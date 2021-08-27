@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript performance profiling"
 youtube_video_id: t3NlzG3rfs0
-tags: debug JavaScript
+tags: debugging JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/t3NlzG3rfs0/default.jpg
   medium: https://i.ytimg.com/vi/t3NlzG3rfs0/mqdefault.jpg

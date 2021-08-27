@@ -2,7 +2,7 @@
 layout: post
 title: "The Peacock extension"
 youtube_video_id: I62YwirwY58
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/I62YwirwY58/default.jpg
   medium: https://i.ytimg.com/vi/I62YwirwY58/mqdefault.jpg

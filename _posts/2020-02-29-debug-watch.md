@@ -2,7 +2,7 @@
 layout: post
 title: "Debug watch"
 youtube_video_id: fs--HWghM_4
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/fs--HWghM_4/default.jpg
   medium: https://i.ytimg.com/vi/fs--HWghM_4/mqdefault.jpg

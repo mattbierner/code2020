@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Rulers"
 youtube_video_id: 8HCoN1jBG6Y
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/8HCoN1jBG6Y/default.jpg
   medium: https://i.ytimg.com/vi/8HCoN1jBG6Y/mqdefault.jpg

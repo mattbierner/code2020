@@ -2,7 +2,7 @@
 layout: post
 title: "Defining rulers with specific colors"
 youtube_video_id: 3vc0XbRMadU
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/3vc0XbRMadU/default.jpg
   medium: https://i.ytimg.com/vi/3vc0XbRMadU/mqdefault.jpg

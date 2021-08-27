@@ -2,7 +2,7 @@
 layout: post
 title: "Commit characters"
 youtube_video_id: B45SOWe3MbM
-tags: setting text suggest
+tags: settings text suggest
 thumbnails:
   default: https://i.ytimg.com/vi/B45SOWe3MbM/default.jpg
   medium: https://i.ytimg.com/vi/B45SOWe3MbM/mqdefault.jpg

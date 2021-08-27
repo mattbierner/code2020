@@ -2,7 +2,7 @@
 layout: post
 title: "Automatically debug node scripts run in the integrated terminal"
 youtube_video_id: GHaf5iBRoD4
-tags: debug JavaScript
+tags: debugging JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/GHaf5iBRoD4/default.jpg
   medium: https://i.ytimg.com/vi/GHaf5iBRoD4/mqdefault.jpg

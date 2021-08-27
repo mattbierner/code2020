@@ -2,7 +2,7 @@
 layout: post
 title: "Problems: Show Current In Status"
 youtube_video_id: m8qvUuxfHtQ
-tags: setting problems
+tags: settings problems
 thumbnails:
   default: https://i.ytimg.com/vi/m8qvUuxfHtQ/default.jpg
   medium: https://i.ytimg.com/vi/m8qvUuxfHtQ/mqdefault.jpg

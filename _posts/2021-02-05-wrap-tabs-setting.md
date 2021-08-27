@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench › Editor: Wrap Tabs"
 youtube_video_id: KrYmKJXbRIA
-tags: setting workbench tabs
+tags: settings workbench tabs
 thumbnails:
   default: https://i.ytimg.com/vi/KrYmKJXbRIA/default.jpg
   medium: https://i.ytimg.com/vi/KrYmKJXbRIA/mqdefault.jpg

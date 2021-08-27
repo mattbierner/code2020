@@ -2,7 +2,7 @@
 layout: post
 title: "The Template string converter extension"
 youtube_video_id: hT2w1Jkrot8
-tags: extension JavaScript TypeScript
+tags: extensions JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/hT2w1Jkrot8/default.jpg
   medium: https://i.ytimg.com/vi/hT2w1Jkrot8/mqdefault.jpg

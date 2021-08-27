@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Show Folding Controls"
 youtube_video_id: 63Ck0LTzaps
-tags: setting folding
+tags: settings folding
 thumbnails:
     default: https://i.ytimg.com/vi/63Ck0LTzaps/default.jpg
     medium: https://i.ytimg.com/vi/63Ck0LTzaps/mqdefault.jpg

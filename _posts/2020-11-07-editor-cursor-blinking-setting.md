@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Cursor Blinking"
 youtube_video_id: Hms3gUBKaVQ
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/Hms3gUBKaVQ/default.jpg
   medium: https://i.ytimg.com/vi/Hms3gUBKaVQ/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Editor › Suggest: Snippets Prevent Quick Suggestions"
 youtube_video_id: ghAhRfTwq_I
-tags: setting suggest snippet 
+tags: settings suggest snippets 
 thumbnails:
   default: https://i.ytimg.com/vi/ghAhRfTwq_I/default.jpg
   medium: https://i.ytimg.com/vi/ghAhRfTwq_I/mqdefault.jpg

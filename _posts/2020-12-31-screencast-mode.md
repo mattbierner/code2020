@@ -2,7 +2,7 @@
 layout: post
 title: "Screencast mode"
 youtube_video_id: Zp-3a0BYTFo
-tags: setting 
+tags: settings 
 thumbnails:
   default: https://i.ytimg.com/vi/Zp-3a0BYTFo/default.jpg
   medium: https://i.ytimg.com/vi/Zp-3a0BYTFo/mqdefault.jpg

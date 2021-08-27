@@ -2,7 +2,7 @@
 layout: post
 title: "Editor › Suggest: Show settings"
 youtube_video_id: LL47NaWGKos
-tags: IntelliSense setting suggest
+tags: IntelliSense settings suggest
 thumbnails:
   default: https://i.ytimg.com/vi/LL47NaWGKos/default.jpg
   medium: https://i.ytimg.com/vi/LL47NaWGKos/mqdefault.jpg

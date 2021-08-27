@@ -2,7 +2,7 @@
 layout: post
 title: "Markdown > Preview: Typographer"
 youtube_video_id: -PHp4BDdync
-tags: markdown setting
+tags: markdown settings
 thumbnails:
   default: https://i.ytimg.com/vi/-PHp4BDdync/default.jpg
   medium: https://i.ytimg.com/vi/-PHp4BDdync/mqdefault.jpg

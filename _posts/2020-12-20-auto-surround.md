@@ -2,7 +2,7 @@
 layout: post
 title: "Auto surround"
 youtube_video_id: oCh5w_Oo_ZA
-tags: text setting
+tags: text settings
 thumbnails:
   default: https://i.ytimg.com/vi/oCh5w_Oo_ZA/default.jpg
   medium: https://i.ytimg.com/vi/oCh5w_Oo_ZA/mqdefault.jpg

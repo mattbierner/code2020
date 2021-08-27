@@ -2,7 +2,7 @@
 layout: post
 title: "Debug: Copy value"
 youtube_video_id: 5yGGtEf4xJg
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/5yGGtEf4xJg/default.jpg
   medium: https://i.ytimg.com/vi/5yGGtEf4xJg/mqdefault.jpg

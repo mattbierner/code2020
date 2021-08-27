@@ -2,7 +2,7 @@
 layout: post
 title: "Workbench › Editor: Highlight Modified Tabs"
 youtube_video_id: YbfbPlUM2RA
-tags: setting tabs workbench
+tags: settings tabs workbench
 thumbnails:
   default: https://i.ytimg.com/vi/YbfbPlUM2RA/default.jpg
   medium: https://i.ytimg.com/vi/YbfbPlUM2RA/mqdefault.jpg

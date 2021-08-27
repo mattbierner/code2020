@@ -2,7 +2,7 @@
 layout: post
 title: "Terminal: CWD"
 youtube_video_id: onMbYU-Vrk4
-tags: terminal setting
+tags: terminal settings
 thumbnails:
   default: https://i.ytimg.com/vi/onMbYU-Vrk4/default.jpg
   medium: https://i.ytimg.com/vi/onMbYU-Vrk4/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Editor › Scrollbar: Scroll By Page"
 youtube_video_id: wRgZYxSX69Q
-tags: setting editor
+tags: settings editor
 thumbnails:
     default: https://i.ytimg.com/vi/wRgZYxSX69Q/default.jpg
     medium: https://i.ytimg.com/vi/wRgZYxSX69Q/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Semantic Token Color Customizations"
 youtube_video_id: vthJRp8jPkw
-tags: setting theme
+tags: settings theme
 thumbnails:
   default: https://i.ytimg.com/vi/vthJRp8jPkw/default.jpg
   medium: https://i.ytimg.com/vi/vthJRp8jPkw/mqdefault.jpg

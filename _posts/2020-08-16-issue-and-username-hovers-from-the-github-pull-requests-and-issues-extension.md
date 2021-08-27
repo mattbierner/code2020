@@ -2,7 +2,7 @@
 layout: post
 title: "Issue and username hovers from the GitHub Pull Requests and Issues extension"
 youtube_video_id: ZBrX35J0Ip4
-tags: extension git GitHub
+tags: extensions git GitHub
 thumbnails:
   default: https://i.ytimg.com/vi/ZBrX35J0Ip4/default.jpg
   medium: https://i.ytimg.com/vi/ZBrX35J0Ip4/mqdefault.jpg

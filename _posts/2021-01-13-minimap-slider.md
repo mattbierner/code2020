@@ -2,7 +2,7 @@
 layout: post
 title: "Minimap slider"
 youtube_video_id: kzQLFtr-3aI
-tags: setting UI
+tags: settings UI
 thumbnails:
   default: https://i.ytimg.com/vi/kzQLFtr-3aI/default.jpg
   medium: https://i.ytimg.com/vi/kzQLFtr-3aI/mqdefault.jpg

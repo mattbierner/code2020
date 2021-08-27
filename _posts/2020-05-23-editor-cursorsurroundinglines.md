@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Cursor Surrounding Lines"
 youtube_video_id: TcsamWA4a54
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/TcsamWA4a54/default.jpg
   medium: https://i.ytimg.com/vi/TcsamWA4a54/mqdefault.jpg

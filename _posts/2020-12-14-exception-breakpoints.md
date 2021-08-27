@@ -2,7 +2,7 @@
 layout: post
 title: "Exception breakpoints"
 youtube_video_id: JDaZEAn42pg
-tags: debug 
+tags: debugging 
 thumbnails:
   default: https://i.ytimg.com/vi/JDaZEAn42pg/default.jpg
   medium: https://i.ytimg.com/vi/JDaZEAn42pg/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Easily debugging client side code with a JavaScript debug terminal"
 youtube_video_id: EXxbDVJ01wM
-tags: debug JavaScript
+tags: debugging JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/EXxbDVJ01wM/default.jpg
   medium: https://i.ytimg.com/vi/EXxbDVJ01wM/mqdefault.jpg

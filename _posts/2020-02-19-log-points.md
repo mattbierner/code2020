@@ -2,7 +2,7 @@
 layout: post
 title: "Log points"
 youtube_video_id: w23ODywuln8
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/w23ODywuln8/default.jpg
   medium: https://i.ytimg.com/vi/w23ODywuln8/mqdefault.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "The Bracket Pair Colorizer 2 extension"
 youtube_video_id: W5Pa15iaC3o
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/W5Pa15iaC3o/default.jpg
   medium: https://i.ytimg.com/vi/W5Pa15iaC3o/mqdefault.jpg

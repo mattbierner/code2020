@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript › Preferences: Quote Style"
 youtube_video_id: iIVX7DiewM8
-tags: setting JavaScript
+tags: settings JavaScript
 thumbnails:
   default: https://i.ytimg.com/vi/iIVX7DiewM8/default.jpg
   medium: https://i.ytimg.com/vi/iIVX7DiewM8/mqdefault.jpg

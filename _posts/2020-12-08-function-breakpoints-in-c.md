@@ -2,7 +2,7 @@
 layout: post
 title: "Function breakpoints in C++"
 youtube_video_id: z5BX54F9034
-tags: debug 
+tags: debugging 
 thumbnails:
   default: https://i.ytimg.com/vi/z5BX54F9034/default.jpg
   medium: https://i.ytimg.com/vi/z5BX54F9034/mqdefault.jpg

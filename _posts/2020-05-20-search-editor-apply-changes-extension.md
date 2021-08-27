@@ -2,7 +2,7 @@
 layout: post
 title: "The Search Editor Apply Changes extension"
 youtube_video_id: rXMz8p5INvQ
-tags: extension search 
+tags: extensions search 
 thumbnails:
   default: https://i.ytimg.com/vi/rXMz8p5INvQ/default.jpg
   medium: https://i.ytimg.com/vi/rXMz8p5INvQ/mqdefault.jpg

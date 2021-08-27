@@ -2,7 +2,7 @@
 layout: post
 title: "Debug: Run to cursor"
 youtube_video_id: v-7lO3zLpPg
-tags: debug command
+tags: debugging command
 thumbnails:
   default: https://i.ytimg.com/vi/v-7lO3zLpPg/default.jpg
   medium: https://i.ytimg.com/vi/v-7lO3zLpPg/mqdefault.jpg

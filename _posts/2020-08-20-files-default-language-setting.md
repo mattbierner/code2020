@@ -2,7 +2,7 @@
 layout: post
 title: "Files: Default Language"
 youtube_video_id: BN_CORsgDbU
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/BN_CORsgDbU/default.jpg
   medium: https://i.ytimg.com/vi/BN_CORsgDbU/mqdefault.jpg

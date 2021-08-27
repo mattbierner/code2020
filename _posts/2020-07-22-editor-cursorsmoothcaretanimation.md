@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Cursor Smooth Caret Animation"
 youtube_video_id: FCUi_dRU0tY
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/FCUi_dRU0tY/default.jpg
   medium: https://i.ytimg.com/vi/FCUi_dRU0tY/mqdefault.jpg

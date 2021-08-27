@@ -2,7 +2,7 @@
 layout: post
 title: "Git: Smart commit"
 youtube_video_id: 1F48hKFNlg8
-tags: git scm setting
+tags: git scm settings
 thumbnails:
   default: https://i.ytimg.com/vi/1F48hKFNlg8/default.jpg
   medium: https://i.ytimg.com/vi/1F48hKFNlg8/mqdefault.jpg

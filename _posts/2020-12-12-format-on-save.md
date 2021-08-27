@@ -2,7 +2,7 @@
 layout: post
 title: "Format on save"
 youtube_video_id: ilCFoEhTyM0
-tags: format setting
+tags: format settings
 thumbnails:
   default: https://i.ytimg.com/vi/ilCFoEhTyM0/default.jpg
   medium: https://i.ytimg.com/vi/ilCFoEhTyM0/mqdefault.jpg

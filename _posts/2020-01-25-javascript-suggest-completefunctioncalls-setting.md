@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript › Suggest: Complete Function Calls"
 youtube_video_id: Ar3mFd8bOsA
-tags: setting JavaScript TypeScript
+tags: settings JavaScript TypeScript
 thumbnails:
   default: https://i.ytimg.com/vi/Ar3mFd8bOsA/default.jpg
   medium: https://i.ytimg.com/vi/Ar3mFd8bOsA/mqdefault.jpg

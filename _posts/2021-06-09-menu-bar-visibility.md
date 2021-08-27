@@ -2,7 +2,7 @@
 layout: post
 title: "Menu bar visibility"
 youtube_video_id: bpXmCdh-FzM
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/bpXmCdh-FzM/default.jpg
   medium: https://i.ytimg.com/vi/bpXmCdh-FzM/mqdefault.jpg

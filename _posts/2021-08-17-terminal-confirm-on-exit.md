@@ -2,7 +2,7 @@
 layout: post
 title: "Terminal › Confirm On Exit"
 youtube_video_id: S_rMxATK2K4
-tags: terminal setting
+tags: terminal settings
 thumbnails:
     default: https://i.ytimg.com/vi/S_rMxATK2K4/default.jpg
     medium: https://i.ytimg.com/vi/S_rMxATK2K4/mqdefault.jpg

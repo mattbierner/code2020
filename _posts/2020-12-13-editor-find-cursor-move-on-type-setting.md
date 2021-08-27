@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Find: Cursor move on type"
 youtube_video_id: gnyWgbogJwk
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/gnyWgbogJwk/default.jpg
   medium: https://i.ytimg.com/vi/gnyWgbogJwk/mqdefault.jpg

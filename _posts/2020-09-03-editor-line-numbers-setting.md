@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Line Numbers"
 youtube_video_id: -yk_Bi4wSTQ
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/-yk_Bi4wSTQ/default.jpg
   medium: https://i.ytimg.com/vi/-yk_Bi4wSTQ/mqdefault.jpg

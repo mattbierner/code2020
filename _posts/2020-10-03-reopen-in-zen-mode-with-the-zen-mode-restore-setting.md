@@ -2,7 +2,7 @@
 layout: post
 title: "Zen Mode: Restore"
 youtube_video_id: pRHXjhlFGUw
-tags: zen setting
+tags: zen settings
 thumbnails:
   default: https://i.ytimg.com/vi/pRHXjhlFGUw/default.jpg
   medium: https://i.ytimg.com/vi/pRHXjhlFGUw/mqdefault.jpg

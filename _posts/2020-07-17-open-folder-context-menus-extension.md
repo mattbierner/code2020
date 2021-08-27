@@ -2,7 +2,7 @@
 layout: post
 title: "The Open Folder Context Menus extension"
 youtube_video_id: MTyVquDl5Ds
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/MTyVquDl5Ds/default.jpg
   medium: https://i.ytimg.com/vi/MTyVquDl5Ds/mqdefault.jpg

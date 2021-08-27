@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Minimap Side"
 youtube_video_id: mXikThN7LPY
-tags: setting minimap
+tags: settings minimap
 thumbnails:
   default: https://i.ytimg.com/vi/mXikThN7LPY/default.jpg
   medium: https://i.ytimg.com/vi/mXikThN7LPY/mqdefault.jpg

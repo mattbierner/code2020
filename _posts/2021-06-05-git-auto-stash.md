@@ -2,7 +2,7 @@
 layout: post
 title: "Git: Auto stash"
 youtube_video_id: 33xT9l59F7I
-tags: setting git
+tags: settings git
 thumbnails:
   default: https://i.ytimg.com/vi/33xT9l59F7I/default.jpg
   medium: https://i.ytimg.com/vi/33xT9l59F7I/mqdefault.jpg

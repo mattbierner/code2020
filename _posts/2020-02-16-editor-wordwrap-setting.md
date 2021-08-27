@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Word wrap"
 youtube_video_id: 3SNUxn1Cn1o
-tags: text setting 
+tags: text settings 
 thumbnails:
   default: https://i.ytimg.com/vi/3SNUxn1Cn1o/default.jpg
   medium: https://i.ytimg.com/vi/3SNUxn1Cn1o/mqdefault.jpg

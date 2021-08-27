@@ -2,7 +2,7 @@
 layout: post
 title: "Suggest status bar"
 youtube_video_id: 2ffs6732mZ0
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/2ffs6732mZ0/default.jpg
   medium: https://i.ytimg.com/vi/2ffs6732mZ0/mqdefault.jpg

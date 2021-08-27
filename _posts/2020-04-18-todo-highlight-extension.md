@@ -2,7 +2,7 @@
 layout: post
 title: "The TODO Highlight extension"
 youtube_video_id: 7xp8MfcTXKU
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/7xp8MfcTXKU/default.jpg
   medium: https://i.ytimg.com/vi/7xp8MfcTXKU/mqdefault.jpg

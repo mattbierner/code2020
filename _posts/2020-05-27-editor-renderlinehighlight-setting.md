@@ -2,7 +2,7 @@
 layout: post
 title: "Editor: Render Line Highlight"
 youtube_video_id: 1scqD9bBWaA
-tags: setting
+tags: settings
 thumbnails:
   default: https://i.ytimg.com/vi/1scqD9bBWaA/default.jpg
   medium: https://i.ytimg.com/vi/1scqD9bBWaA/mqdefault.jpg

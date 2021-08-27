@@ -2,7 +2,7 @@
 layout: post
 title: "The Live Share extension"
 youtube_video_id: 8Ck2QhMxAYg
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/8Ck2QhMxAYg/default.jpg
   medium: https://i.ytimg.com/vi/8Ck2QhMxAYg/mqdefault.jpg

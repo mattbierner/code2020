@@ -2,7 +2,7 @@
 layout: post
 title: "The Sort Lines extension"
 youtube_video_id: yGGyRrcRXfc
-tags: extension
+tags: extensions
 thumbnails:
   default: https://i.ytimg.com/vi/yGGyRrcRXfc/default.jpg
   medium: https://i.ytimg.com/vi/yGGyRrcRXfc/mqdefault.jpg

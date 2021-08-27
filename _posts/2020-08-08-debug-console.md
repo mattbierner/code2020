@@ -2,7 +2,7 @@
 layout: post
 title: "The debug console"
 youtube_video_id: k578NF57uBE
-tags: debug
+tags: debugging
 thumbnails:
   default: https://i.ytimg.com/vi/k578NF57uBE/default.jpg
   medium: https://i.ytimg.com/vi/k578NF57uBE/mqdefault.jpg

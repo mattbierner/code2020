@@ -2,7 +2,7 @@
 layout: post
 title: "Debug set value"
 youtube_video_id: 9k94yrqbjvI
-tags: debug 
+tags: debugging 
 thumbnails:
   default: https://i.ytimg.com/vi/9k94yrqbjvI/default.jpg
   medium: https://i.ytimg.com/vi/9k94yrqbjvI/mqdefault.jpg
