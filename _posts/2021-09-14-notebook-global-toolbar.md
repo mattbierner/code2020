@@ -8,7 +8,7 @@ thumbnails:
     medium: https://i.ytimg.com/vi/Yr3Y2DszUmI/mqdefault.jpg
     high: https://i.ytimg.com/vi/Yr3Y2DszUmI/hqdefault.jpg
     standard: https://i.ytimg.com/vi/Yr3Y2DszUmI/sddefault.jpg
-    # maxres: https://i.ytimg.com/vi/Yr3Y2DszUmI/maxresdefault.jpg
+    maxres: https://i.ytimg.com/vi/Yr3Y2DszUmI/maxresdefault.jpg
 ---
 
 The global toolbar at the top of notebook files contains common notebook commands, such as running all cells.
