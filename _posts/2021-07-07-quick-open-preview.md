@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Draw.io"
+title: "Quick Open Preview"
 youtube_video_id: yLsnGyh7nL8
 tags: workbench
 thumbnails:
