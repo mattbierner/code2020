@@ -25,9 +25,6 @@
     <meta property="og:description" content="{{ site.description }}" />
 {% endif %}
 
-{% if page.titleImage %}
-    {% capture image_src %}{% if page.titleImage.file %}{{ site.url }}/content/{{ page.path | remove_first:'_posts/' | split:'.' | first }}/{{ page.titleImage.file }}{% else %}{{ page.titleImage.url }}{% endif %}{% endcapture %}
-    <meta name="twitter:image" content="{{ image_src }}">
-{% endif %}
-
-
+{% capture image_src %}{{ page.thumbnails.maxres | default: page.thumbnails.standard }}{% endcapture %}
+<meta name="twitter:image" content="{{ image_src }}">
+<meta name="og:image" content="{{ image_src }}">
