@@ -2,7 +2,7 @@
 layout: post
 title: "Duplicate selection"
 youtube_video_id: 1_MKBv4c6ws
-$keybindings 
+tags: keybindings 
 thumbnails:
   default: https://i.ytimg.com/vi/1_MKBv4c6ws/default.jpg
   medium: https://i.ytimg.com/vi/1_MKBv4c6ws/mqdefault.jpg

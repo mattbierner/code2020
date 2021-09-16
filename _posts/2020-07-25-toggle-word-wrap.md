@@ -2,7 +2,7 @@
 layout: post
 title: "Toggle word wrap"
 youtube_video_id: Y6KHYGjeZDE
-$keybindings
+tags: keybindings
 thumbnails:
   default: https://i.ytimg.com/vi/Y6KHYGjeZDE/default.jpg
   medium: https://i.ytimg.com/vi/Y6KHYGjeZDE/mqdefault.jpg
