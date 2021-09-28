@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Enable Emmet abbreviations in any language using 'emmet.includeLanguages'"
+thumbnail_title: "Enable Emmet abbreviations in any language"
 youtube_video_id: 99JI6HY3V78
 tags: html emmet
 thumbnails:

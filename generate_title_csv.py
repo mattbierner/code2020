@@ -2,6 +2,7 @@
 
 import glob
 import csv
+import re
 from os import path
 
 post_dir = '_posts/'
@@ -18,23 +19,13 @@ with open('titles.csv', 'w', newline='', encoding='utf-16') as csvfile:
     posts = []
     for filename in filenames:
         f = open(filename, 'r', encoding='utf8')
-        crawl = False
-        for line in f:
-            if crawl:
-                current_tags = line.strip().split(" ", 1)
-                if current_tags[0] == 'title:':
-                    title = current_tags[1].replace('"', '')
-                    date = '-'.join(path.basename(filename).split('-')[0:3])
-                    posts.append({'date': date, 'title': title})
+        contents = f.read()
 
-                    crawl = False
-                    break
-            if line.strip() == '---':
-                if not crawl:
-                    crawl = True
-                else:
-                    crawl = False
-                    break
+        match = re.search(r'^thumbnail_title: (.+)', contents, re.M) or re.search(r'^title: (.+)', contents, re.M)
+        if match:
+            title = match.group(1).replace('"', '')
+            date = '-'.join(path.basename(filename).split('-')[0:3])
+            posts.append({'date': date, 'title': title})
         f.close()
 
     posts.sort(key=lambda x: x['date'])
