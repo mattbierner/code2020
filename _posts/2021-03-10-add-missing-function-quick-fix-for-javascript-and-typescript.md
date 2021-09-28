@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The add missing function quick fix for JavaScript and TypeScript"
+title: "Add missing function quick fix for JavaScript and TypeScript"
 youtube_video_id: IiFYyuA-6ZI
 tags: JavaScript TypeScript code-actions
 thumbnails:
