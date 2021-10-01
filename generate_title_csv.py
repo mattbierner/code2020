@@ -28,7 +28,7 @@ with open('titles.csv', 'w', newline='', encoding='utf-16') as csvfile:
             posts.append({'date': date, 'title': title})
         f.close()
 
-    posts.sort(key=lambda x: x['date'])
+    posts.sort(key=lambda x: x['date'], reverse=True)
     for post in posts:
         writer.writerow(post)
 
