@@ -25,6 +25,6 @@
     <meta property="og:description" content="{{ site.description }}" />
 {% endif %}
 
-{% capture image_src %}{{ page.thumbnails.maxres | default: page.thumbnails.standard }}{% endcapture %}
+{% capture image_src %}{{ page.thumbnails.maxres | default: page.thumbnails.standard | default: page.thumbnails.high }}{% endcapture %}
 <meta name="twitter:image" content="{{ image_src }}">
 <meta name="og:image" content="{{ image_src }}">
