@@ -2,7 +2,7 @@
 layout: post
 title: "Jupyter variables view"
 youtube_video_id: CNf7uwiQKCw
-tags: python notebooks
+tags: Python notebooks
 thumbnails:
     default: https://i.ytimg.com/vi/CNf7uwiQKCw/default.jpg
     medium: https://i.ytimg.com/vi/CNf7uwiQKCw/mqdefault.jpg

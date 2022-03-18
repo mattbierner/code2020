@@ -2,7 +2,7 @@
 layout: post
 title: "Explorer: Copy relative path separator"
 youtube_video_id: CFfl26rMLsg
-tags: setting
+tags: settings
 thumbnails:
     default: https://i.ytimg.com/vi/CFfl26rMLsg/default.jpg
     medium: https://i.ytimg.com/vi/CFfl26rMLsg/mqdefault.jpg

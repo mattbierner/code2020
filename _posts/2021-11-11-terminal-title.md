@@ -2,7 +2,7 @@
 layout: post
 title: "Configuring the terminal's title"
 youtube_video_id: miLXfQSphw0
-tags: terminal setting
+tags: terminal settings
 thumbnails:
     default: https://i.ytimg.com/vi/miLXfQSphw0/default.jpg
     medium: https://i.ytimg.com/vi/miLXfQSphw0/mqdefault.jpg

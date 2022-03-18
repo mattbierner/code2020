@@ -2,7 +2,7 @@
 layout: post
 title: "HTML › Completion: Attribute Default Value"
 youtube_video_id: vhOy0BXF4bw
-tags: html setting
+tags: html settings
 thumbnails:
     default: https://i.ytimg.com/vi/vhOy0BXF4bw/default.jpg
     medium: https://i.ytimg.com/vi/vhOy0BXF4bw/mqdefault.jpg

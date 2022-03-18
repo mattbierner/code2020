@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: emmet"
-tag: emmet
+title: "Tag: Jupyter"
+tag: Jupyter
 robots: noindex
 ---

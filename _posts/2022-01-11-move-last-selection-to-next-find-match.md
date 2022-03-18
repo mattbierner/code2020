@@ -10,6 +10,7 @@ thumbnails:
     standard: https://i.ytimg.com/vi/GwugvsHfDkU/sddefault.jpg
     maxres: https://i.ytimg.com/vi/GwugvsHfDkU/maxresdefault.jpg
 ---
+
 Move the current selection to the next instance of the selected text
 
 Windows/Linux: <kbd>ctrl</kbd><kbd>k</kbd> <kbd>ctrl</kbd><kbd>d</kbd>

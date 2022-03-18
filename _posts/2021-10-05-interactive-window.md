@@ -2,7 +2,7 @@
 layout: post
 title: "The Jupyter interactive window"
 youtube_video_id: B91K6-tERX0
-tags: python
+tags: Python
 thumbnails:
     default: https://i.ytimg.com/vi/B91K6-tERX0/default.jpg
     medium: https://i.ytimg.com/vi/B91K6-tERX0/mqdefault.jpg
