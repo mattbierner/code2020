@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jupyter variables view"
+title: "Jupyter outline"
 youtube_video_id: CNf7uwiQKCw
 tags: Python notebooks
 thumbnails:
