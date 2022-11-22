@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Limiting the number of open editors"
+title: "Terminal search"
 youtube_video_id: HC6WAikiEhc
 tags: terminal
 thumbnails:
